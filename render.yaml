@@ -5,7 +5,7 @@ services:
     plan: free
     autoDeploy: true
     buildCommand: ""
-    startCommand: ""
+    startCommand: "node app.js"
     envVars:
       - key: OPENAI_API_KEY
         value: your_openai_key_here

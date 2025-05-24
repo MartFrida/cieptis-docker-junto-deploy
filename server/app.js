@@ -18,7 +18,7 @@ const app = express();
 app.use(bodyParser.json());
 
 app.use(cors({
-    origin: ['https://centroentrenadores.com', 'http://localhost', 'http://localhost:5173', 'http://localhost:3000', 'http://localhost:3001', 'https://entrenador-personal.netlify.app'],
+    origin: ['https://centroentrenadores.com', 'http://localhost', 'http://localhost:5173', 'http://localhost:3000', 'http://localhost:3001', 'https://entrenador-personal.netlify.app', 'https://cieptis-docker.onrender.com/'],
     methods: ['GET', 'POST', 'OPTIONS'],
     credentials: true
 }));
