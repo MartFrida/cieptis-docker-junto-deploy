@@ -1,9 +1,19 @@
 # ==== FRONTEND ====
+
+
 FROM node:20 AS frontend
 WORKDIR /client
+
+# Передаём build-аргумент для frontend
+ARG VITE_BACKEND_PATH
+
 COPY client/package*.json ./
 RUN npm install
 COPY client .
+
+# Устанавливаем переменную окружения для сборки фронтенда
+ENV VITE_BACKEND_PATH=$VITE_BACKEND_PATH
+
 RUN npm run build
 
 # ==== BACKEND ====
