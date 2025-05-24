@@ -4,7 +4,7 @@
 FROM node:20 AS frontend
 WORKDIR /client
 
-# Передаём build-аргумент для frontend
+# Определим ARG — значения подаёт Render из "Environment" автоматически
 ARG VITE_BACKEND_PATH
 ARG VITE_EMAILJS_SERVICE_ID
 ARG VITE_EMAILJS_TEMPLATE_ID
@@ -13,16 +13,15 @@ ARG VITE_EMAILJS_PUBLIC_KEY
 COPY client/package*.json ./
 RUN npm install
 
-COPY client .
+COPY client ./
 
 # Устанавливаем переменную окружения для сборки фронтенда
-ENV VITE_BACKEND_PATH=$VITE_BACKEND_PATH
-ENV VITE_EMAILJS_SERVICE_ID=$VITE_EMAILJS_SERVICE_ID
-ENV VITE_EMAILJS_TEMPLATE_ID=$VITE_EMAILJS_TEMPLATE_ID
-ENV VITE_EMAILJS_PUBLIC_KEY=$VITE_EMAILJS_PUBLIC_KEY
-
-
-RUN npm run build
+# ВАЖНО: не нужно ENV — Vite берёт только то, что явно задано на этапе build
+RUN VITE_BACKEND_PATH=$VITE_BACKEND_PATH \
+    VITE_EMAILJS_SERVICE_ID=$VITE_EMAILJS_SERVICE_ID \
+    VITE_EMAILJS_TEMPLATE_ID=$VITE_EMAILJS_TEMPLATE_ID \
+    VITE_EMAILJS_PUBLIC_KEY=$VITE_EMAILJS_PUBLIC_KEY \
+    npm run build
 
 # ==== BACKEND ====
 FROM node:20 AS backend
