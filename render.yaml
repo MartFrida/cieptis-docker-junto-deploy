@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: centroentrenadores-fullstack
+    env: docker
+    plan: free
+    autoDeploy: true
+    buildCommand: ""
+    startCommand: ""
+    envVars:
+      - key: OPENAI_API_KEY
+        value: your_openai_key_here
+      - key: NODE_ENV
+        value: production

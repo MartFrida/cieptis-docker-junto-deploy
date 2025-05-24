@@ -1,0 +1,125 @@
+{
+  "clacesInfantiles": {
+    "title": "Personal Training for Kids: Fun and Movement!",
+    "description": "Let your child discover the joy of moving and being active!",
+    "videoSrc": "/video/video_trena2.mp4"
+  },
+  "offers": {
+    "taekwondo": {
+      "label": "Taekwondo",
+      "title": "Train Like a Warrior! Develop Strength and Discipline Through Taekwondo",
+      "description": "Discover the art of Taekwondo and transform not only your body but also your mind. In our customized classes for kids, they will learn kicking techniques, self-defense, and values like respect and perseverance. Join today and begin your journey towards excellence!",
+      "items": [
+        "🔹Improve Coordination and Flexibility: Through dynamic movements and specific exercises, your kids will develop motor skills and better mobility.",
+        "🔹Foster Confidence and Discipline: With each belt they earn, they will learn to set goals and push themselves, building their self-esteem.",
+        "🔹Increase Strength and Endurance: Intensive classes will help your kids improve their fitness levels, keeping them active and healthy.",
+        "🔹Social Development and Teamwork: Group sessions promote camaraderie and teach the importance of working together to achieve common goals."
+      ],
+      "callToAction": "Sign Up Now and Awaken the Warrior Within!",
+      "imageUrl": "/img/foto-clases-ninos/karate.jpg"
+    },
+    "judo": {
+      "label": "Judo",
+      "title": "Train Like a Champion! Develop Skills and Confidence Through Judo and Nunchaku Handling",
+      "description": "Discover the exciting discipline of Judo, where your kids will learn not only combat techniques but also values like humility and respect. Our personalized classes are designed to help children develop strength, agility, and a winning mindset. Join today and start building a future full of achievements!",
+      "items": [
+        "Improve Strength and Agility: 👉 Through throwing and falling techniques, children will develop great physical strength and motor skills.",
+        "👉 Foster Discipline and Concentration: Judo teaches children to focus and follow instructions, enhancing their attention skills in other areas of life.",
+        "👉 Boost Confidence and Self-Esteem: By learning and mastering new techniques, your kids will gain self-confidence and belief in their abilities.",
+        "💥Social Skills Development: Group classes promote teamwork and respect for others, creating bonds of friendship and camaraderie.💥"
+      ],
+      "callToAction": "Sign Up Now and Make Every Fall a Step Toward Success!",
+      "imageUrl": "/img/foto-clases-ninos/judo.jpg"
+    },
+    "mmaninos": {
+      "label": "MMA",
+      "title": "Train Like a Fighter! Develop Strength and Skills Through Mixed Martial Arts",
+      "description": "Discover the exciting world of Mixed Martial Arts, where your children will learn techniques from various disciplines, including boxing, judo, and kickboxing. Our personalized classes are designed to nurture confidence, discipline, and teamwork. Join today and start building skills that will last a lifetime!",
+      "items": [
+        "🔹Improve Physical Fitness and Agility: Dynamic training routines help children develop strength, endurance, and coordination.",
+        "🔹Foster Discipline and Self-Confidence: Learning to handle combat situations safely and respectfully strengthens self-esteem and self-control.",
+        "🔹Development of Self-Defense Skills: Children will learn effective techniques to defend themselves, which will give them confidence both in the dojo and in everyday life.",
+        "🔹Teamwork and Friendship: Group classes foster camaraderie and teach the importance of supporting each other on the path to success."
+      ],
+      "callToAction": "💥 Sign Up Now and Unleash the Fighter Within! 💥",
+      "imageUrl": "/img/foto-clases-ninos/trena.jpg"
+    },
+    "hapkido": {
+      "label": "Hapkido",
+      "title": "Train Like a Master! Develop Balance and Confidence Through Hapkido",
+      "description": "Discover the martial art of Hapkido, where your kids will learn to combine self-defense techniques, kicks, and joint locks. Our personalized classes are designed to foster confidence, self-control, and discipline. Join today and let your children become confident and respectful warriors!",
+      "items": [
+        "Improve Coordination and Balance: Hapkido techniques help kids develop essential motor skills and a sense of balance.",
+        "Foster Discipline and Respect: Hapkido teaches children the importance of self-discipline and respect for others, values they will apply in their daily lives.",
+        "Boost Confidence and Self-Esteem: By learning and mastering new techniques, children gain self-confidence and belief in their ability to face challenges.",
+        "Development of Self-Defense Skills: With a focus on self-defense, your children will learn to handle difficult situations safely and effectively."
+      ],
+      "callToAction": "💥 Sign Up Now and Unlock the Potential of the Inner Warrior! 💥",
+      "imageUrl": "/img/foto-clases-ninos/ninos-group.jpg"
+    },
+    "cursosdeverano": {
+      "label": "Summer Courses",
+      "title": "Have Fun and Learn This Summer! Personal Training Courses for Kids",
+      "description": "This summer, give your kids a unique experience full of fun, physical activity, and learning. Our summer courses are designed to keep children active while developing skills in various sports disciplines. Sign up today and give your kids an unforgettable summer!",
+      "items": [
+        "🔹Increase Physical Activity: Keep your kids active and healthy with dynamic training sessions that combine games and exercises.",
+        "🔹Encourage Social Skills: Through teamwork and group activities, your kids will learn to communicate and collaborate with their peers.",
+        "🔹Development of Discipline and Concentration: The classes are designed to teach children the importance of dedication and focus, helping them apply these values to other aspects of their lives.",
+        "🔹Fun and Creativity: Each course includes creative and entertaining activities that keep children motivated and excited to learn."
+      ],
+      "callToAction": "Sign Up Now and Make This Summer the Best One Yet!",
+      "imageUrl": "/img/foto-clases-ninos/group-people-working-out-together-outdoors.webp"
+    },
+    "excursiones": {
+      "label": "Excursions",
+      "title": "Unforgettable Adventures! Excursions for Kids with Personal Training",
+      "description": "This year, take your kids to experience unique adventures with our exciting excursions. Designed to combine fun and learning, these outings will allow them to explore nature, practice sports, and make new friends. Join us and create memories that will last a lifetime!",
+      "items": [
+        "🔹Exploration and Connection with Nature: Excursions allow children to learn about the environment while enjoying outdoor activities, promoting an active and healthy lifestyle.",
+        "🔹Development of Social Skills: Through group activities and dynamics, children will improve their teamwork skills and make new friends in a fun environment.",
+        "🔹Boosting Confidence and Self-Esteem: New experiences and challenges help children push their limits, strengthening their self-confidence and teaching them to face unknown situations.",
+        "🔹Fostering Curiosity and Learning: Each excursion is designed to be educational, stimulating curiosity and the desire to learn about the world around them."
+      ],
+      "callToAction": "Sign Up Now and Get Ready for an Epic Adventure!",
+      "imageUrl": "/img/foto-clases-ninos/excursiones.jpg"
+    },
+    "airlibre": {
+      "label": "Outdoor Recreational Activities",
+      "title": "Have Fun Outdoors! Personal Training Classes for Kids and Adults",
+      "description": "This is the perfect time for your kids to connect with nature while staying active and healthy. Our outdoor classes offer an exciting and motivating environment where children can learn and play. Sign up today and let the adventure begin!",
+      "items": [
+        "🔹Connection with Nature: Outdoor activities foster love and respect for the environment, allowing children to explore and enjoy fresh air.",
+        "🔹Improvement of Physical Fitness: Dynamic sessions include games, races, and exercises that increase endurance and strength, helping kids stay active.",
+        "🔹Fostering Social Skills: Group activities promote teamwork and communication, helping children make friends and develop interpersonal skills.",
+        "🔹Boosting Creativity and Imagination: The natural environment stimulates creativity, allowing children to invent games and activities while having fun."
+      ],
+      "callToAction": "Sign Up Now and Take the First Step toward Outdoor Fun!",
+      "imageUrl": "/img/foto-clases-ninos/kardio-kiikboxing.jpg"
+    },
+    "juegos": {
+      "label": "Recreational Games",
+      "title": "Play and Learn! Personal Training Classes for Kids Through Games",
+      "description": "Transform playtime into an active and fun learning experience. Our game classes are designed to keep kids moving while developing physical, social, and emotional skills. Sign up today and let your children have fun while they grow!",
+      "items": [
+        "Encouragement of Physical Activity: Through dynamic games, children will improve their endurance, strength, and coordination while having fun.",
+        "Development of Social Skills: Group activities teach children to collaborate, communicate, and solve problems together, strengthening their friendships.",
+        "Stimulation of Creativity: Games allow children to use their imagination, inventing new ways to play and creating their own rules.",
+        "Boosting Confidence and Self-Esteem: By participating and succeeding in various activities, children develop greater confidence in their abilities and a sense of achievement."
+      ],
+      "callToAction": "Sign Up Now and Let Play Be the Best Teacher!",
+      "imageUrl": "/img/foto-clases-ninos/soccer.jpg"
+    },
+    "artesinterpretativas": {
+      "label": "Performing Arts",
+      "title": "Express Your Creativity! Personal Training Classes in Performing Arts for Kids",
+      "description": "Immerse yourself in the exciting world of performing arts, where your kids can explore their creativity and learn to communicate through dance, theater, and music. Our classes are designed to foster self-expression and emotional development. Sign up today and let imagination soar!",
+      "items": [
+        "🔹Encouragement of Creativity and Imagination: Through various artistic activities, children will develop their ability to invent and create, expressing their thoughts and emotions in a unique way.",
+        "🔹Improvement of Confidence and Self-Esteem: By performing and sharing their work with others, children gain confidence in themselves and their abilities, learning to value their voice.",
+        "🔹Development of Social Skills: Group activities foster collaboration and communication, helping children make friends and work as a team.",
+        "🔹Stimulation of Critical Thinking: The performing arts invite children to reflect on their work and that of others, promoting analytical skills and artistic appreciation."
+      ],
+      "callToAction": "Sign Up Now and Let Your Kids Shine on Stage!"
+    }
+  }
+}

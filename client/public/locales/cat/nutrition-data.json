@@ -1,0 +1,35 @@
+{
+  "nutrition": {
+    "title": "Nutrició Intel·ligent per a un Cos Saludable",
+    "description": "Dieta, Nutrició",
+    "videoSrc": "/video/nurtition.mp4"
+  },
+  "offers": {
+    "nutrition": {
+      "label": "Nutrició",
+      "title": "Plans Personalitzats per Potenciar el Teu Entrenament",
+      "description": "L'alimentació és la clau per obtenir els millors resultats en el teu entrenament. Amb assessorament nutricional personalitzat, aprendràs a nodrir el teu cos de manera equilibrada, optimitzant la teva energia i rendiment físic. Inscriu-te avui i transforma la teva salut des de dins!",
+      "items": [
+        "🔹Més Energia i Rendiment ⚡: Alimenta't de manera intel·ligent per millorar el teu rendiment en l'entrenament i a la vida diària.",
+        "🔹Millor Recuperació Muscular 💪: Aprèn què menjar abans i després de l'exercici per maximitzar els teus resultats i reduir la fatiga.",
+        "🔹Control de Pes i Composició Corporal 🔥: Descobreix com equilibrar la teva dieta per guanyar múscul, perdre greix o mantenir-te en la millor forma.",
+        "🔹Hàbits Saludables per a tota la Vida 🥦: Adopta una alimentació conscient i sostenible que t'ajudi a sentir-te bé per dins i per fora."
+      ],
+      "callToAction": "Descobreix el poder de la nutrició personalitzada i porta el teu rendiment al següent nivell!",
+      "imageUrl": ""
+    },
+    "dieta": {
+      "label": "Dieta",
+      "title": "🥑 Dissenya la Dieta Perfecta per als Teus Objectius",
+      "description": "Assolir els teus objectius fitness no només depèn de l'exercici, sinó també del que menges. Amb una dieta personalitzada segons el teu cos i objectius, optimitzaràs la teva energia, milloraràs el teu rendiment i transformaràs la teva salut. Comença avui i dóna al teu cos el combustible que necessita!",
+      "items": [
+        "🔹Pèrdua de Pes o Guany de Múscul 🏆: Ajusta la teva alimentació per cremar greix o desenvolupar múscul de manera efectiva.",
+        "🔹Millor Digestions i Salut General 🌿: Aprèn a triar els aliments adequats per millorar el teu benestar i vitalitat.",
+        "🔹Control de Porcions i Hàbits Saludables 🍽️: No es tracta de menjar menys, sinó de menjar millor i de manera conscient.",
+        "🔹Més Energia i Menys Fatiga ⚡: Segueix una dieta que mantingui el teu cos actiu i en la seva millor versió cada dia."
+      ],
+      "callToAction": "Comença Avui el Teu Canvi amb un Pla de Dieta a Mesura!",
+      "imageUrl": ""
+    }
+  }
+}

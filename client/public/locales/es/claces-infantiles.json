@@ -1,0 +1,125 @@
+{
+  "clacesInfantiles": {
+    "title": "Entrenamiento Personal para Niños: ¡Diversión y Movimiento!",
+    "description": "¡Deja que tu hijo descubra el placer de moverse y estar activo!",
+    "videoSrc": "/video/video_trena2.mp4"
+  },
+  "offers": {
+    "taekwondo": {
+      "label": "Taekwondo",
+      "title": "¡Entrena Como un Guerrero! Desarrolla Fuerza y Disciplina a Través del Taekwondo",
+      "description": "Descubre el arte del Taekwondo y transforma no solo tu cuerpo, sino también tu mente. En nuestras clases personalizadas para niños, aprenderán técnicas de patadas, defensa personal y valores como el respeto y la perseverancia. ¡Únete hoy y comienza tu viaje hacia la excelencia!",
+      "items": [
+        "🔹Mejora la Coordinación y Flexibilidad: A través de movimientos dinámicos y ejercicios específicos, tus hijos desarrollarán habilidades motrices y una mejor movilidad.",
+        "🔹Fomenta la Confianza y la Disciplina: Con cada cinturón que logran, aprenderán a establecer metas y superarse, construyendo su autoestima.",
+        "🔹Aumenta la Fuerza y Resistencia: Las clases intensivas ayudarán a tus niños a mejorar su acondicionamiento físico, manteniéndolos activos y saludables.",
+        "🔹Desarrollo Social y Trabajo en Equipo: Las sesiones en grupo fomentan la camaradería y enseñan la importancia de trabajar juntos para alcanzar objetivos comunes."
+      ],
+      "callToAction": "¡Inscríbete Ahora y Despierta el Guerrero que Llevan Dentro!",
+      "imageUrl": "/img/foto-clases-ninos/karate.jpg"
+    },
+    "judo": {
+      "label": "Judo",
+      "title": "¡Entrena Como un Campeón! Desarrolla Habilidades y Confianza a Través del Judo y manejo de Nunchaku",
+      "description": "Descubre la emocionante disciplina del Judo, donde tus hijos aprenderán no solo técnicas de combate, sino también valores como la humildad y el respeto. Nuestras clases personalizadas están diseñadas para ayudar a los niños a desarrollar fuerza, agilidad y una mentalidad ganadora. ¡Únete hoy y comienza a construir un futuro lleno de logros!",
+      "items": [
+        "Mejora la Fuerza y la Agilidad: 👉  A través de movimientos de lanzamiento y caídas, los niños desarrollarán una gran fuerza física y habilidades motoras. ",
+        "👉 Fomenta la Disciplina y la Concentración: El Judo enseña a los niños a concentrarse y a seguir instrucciones, mejorando su capacidad de atención en otros aspectos de la vida.",
+        "👉 Aumenta la Confianza y la Autoestima: Al aprender y dominar nuevas técnicas, tus hijos ganarán confianza en sí mismos y en sus habilidades.",
+        "💥 Desarrollo de Habilidades Sociales: Las clases en grupo fomentan el trabajo en equipo y el respeto hacia los demás, creando lazos de amistad y camaradería.💥"
+      ],
+      "callToAction": "¡Inscríbete Ahora y Haz que Cada Caída Sea un Paso hacia el Éxito!",
+      "imageUrl": "/img/foto-clases-ninos/judo.jpg"
+    },
+    "mmaninos": {
+      "label": "MMA",
+      "title": "¡Entrena Como un Luchador! Desarrolla Fuerza y Habilidades a Través de las Artes Marciales Mixtas",
+      "description": "Descubre el emocionante mundo de las Artes Marciales Mixtas, donde tus hijos aprenderán técnicas de diversas disciplinas, incluyendo el boxeo, el judo y el kickboxing. Nuestras clases personalizadas están diseñadas para fomentar la confianza, la disciplina y el trabajo en equipo. ¡Únete hoy y empieza a construir habilidades que durarán toda la vida!",
+      "items": [
+        "🔹 Mejora la Condición Física y la Agilidad: Las rutinas de entrenamiento dinámicas ayudan a los niños a desarrollar fuerza, resistencia y coordinación.",
+        "🔹 Fomenta la Disciplina y la Autoconfianza: Aprender a manejar situaciones de combate de manera segura y respetuosa fortalece la autoestima y la autocontrol.",
+        "🔹 Desarrollo de Habilidades de Defensa Personal: Los niños aprenderán técnicas efectivas para defenderse, lo que les dará seguridad tanto en el dojo como en la vida diaria.",
+        "🔹 Trabajo en Equipo y Amistad: Las clases en grupo fomentan la camaradería y enseñan la importancia de apoyarse mutuamente en el camino hacia el éxito."
+      ],
+      "callToAction": "💥 ¡Inscríbete Ahora y Desata el Potencial del Luchador que Llevan Dentro!💥",
+      "imageUrl": "/img/foto-clases-ninos/trena.jpg"
+    },
+    "hapkido": {
+      "label": "Hapkido",
+      "title": "¡Entrena Como un Maestro! Desarrolla Equilibrio y Confianza a Través del Hapkido",
+      "description": "Descubre el arte marcial del Hapkido, donde tus hijos aprenderán a combinar técnicas de defensa personal, patadas, y llaves. Nuestras clases personalizadas están diseñadas para fomentar la confianza, el autocontrol y la disciplina. ¡Únete hoy y permite que tus niños se conviertan en guerreros seguros y respetuosos!",
+      "items": [
+        "Mejora la Coordinación y el Equilibrio: Las técnicas de Hapkido ayudan a los niños a desarrollar habilidades motrices esenciales y un sentido del equilibrio.",
+        "Fomenta la Disciplina y el Respeto: El Hapkido enseña a los niños la importancia de la autodisciplina y el respeto hacia los demás, valores que aplicarán en su vida diaria.",
+        "Aumenta la Confianza y la Autoestima: Al aprender y dominar nuevas técnicas, los niños ganan confianza en sí mismos y en su capacidad para enfrentar desafíos.",
+        "Desarrollo de Habilidades de Defensa Personal: Con un enfoque en la defensa personal, tus hijos aprenderán a manejar situaciones difíciles de manera segura y efectiva."
+      ],
+      "callToAction": "💥 ¡Inscríbete Ahora y Desbloquea el Potencial del Guerrero Interior!💥",
+      "imageUrl": "/img/foto-clases-ninos/ninos-group.jpg"
+    },
+    "cursosdeverano": {
+      "label": "Cursos de Verano",
+      "title": "¡Diviértete y Aprende este Verano! Cursos de Entrenamiento Personal para Niños",
+      "description": "Este verano, ofrece a tus hijos una experiencia única llena de diversión, actividad física y aprendizaje. Nuestros cursos de verano están diseñados para mantener a los niños activos mientras desarrollan habilidades en diversas disciplinas deportivas. ¡Inscríbete hoy y dale a tus hijos un verano inolvidable!",
+      "items": [
+        "🔹Aumento de la Actividad Física: Mantén a tus hijos activos y saludables con sesiones de entrenamiento dinámicas que combinan juegos y ejercicios.",
+        "🔹 Fomento de Habilidades Sociales: A través del trabajo en equipo y actividades grupales, tus hijos aprenderán a comunicarse y colaborar con sus compañeros.",
+        "🔹Desarrollo de la Disciplina y la Concentración: Las clases están diseñadas para enseñar a los niños la importancia de la dedicación y el enfoque, ayudándoles a aplicar estos valores en otros aspectos de su vida.",
+        "🔹 Diversión y Creatividad: Cada curso incluye actividades creativas y entretenidas que mantienen a los niños motivados y emocionados por aprender."
+      ],
+      "callToAction": "¡Inscríbete Ahora y Haz que Este Verano Sea el Mejor de Todos!",
+      "imageUrl": "/img/foto-clases-ninos/group-people-working-out-together-outdoors.webp"
+    },
+    "excursiones": {
+      "label": "Excursiones",
+      "title": "¡Aventuras Inolvidables! Excursiones para Niños con Entrenamiento Personal",
+      "description": "Este año, lleva a tus hijos a vivir experiencias únicas con nuestras emocionantes excursiones. Diseñadas para combinar diversión y aprendizaje, estas salidas les permitirán explorar la naturaleza, practicar deportes y hacer nuevos amigos. ¡Únete a nosotros y crea recuerdos que durarán toda la vida!",
+      "items": [
+        "🔹 Exploración y Conexión con la Naturaleza: Las excursiones permiten a los niños aprender sobre el medio ambiente mientras disfrutan de actividades al aire libre, fomentando un estilo de vida activo y saludable.",
+        "🔹 Desarrollo de Habilidades Sociales: A través de actividades grupales y dinámicas, los niños mejorarán su capacidad de trabajar en equipo y harán nuevos amigos en un ambiente divertido.",
+        "🔹Aumento de la Confianza y la Autoestima: Las nuevas experiencias y desafíos ayudan a los niños a superar sus límites, lo que fortalece su autoconfianza y les enseña a enfrentar situaciones desconocidas.",
+        "🔹 Fomento de la Curiosidad y el Aprendizaje: Cada excursión está diseñada para ser educativa, estimulando la curiosidad y el deseo de aprender sobre el mundo que les rodea."
+      ],
+      "callToAction": "¡Inscríbete Ahora y Prepárate para una Aventura Épica!",
+      "imageUrl": "/img/foto-clases-ninos/excursiones.jpg"
+    },
+    "airlibre": {
+      "label": "Actividades Lúdicas al Aire Libre",
+      "title": "¡Diviértete al Aire Libre! Clases de Entrenamiento Personal para Niños y Adultos",
+      "description": "Este es el momento perfecto para que tus hijos se conecten con la naturaleza mientras se mantienen activos y saludables. Nuestras clases al aire libre ofrecen un ambiente emocionante y motivador donde los niños pueden aprender y jugar. ¡Inscríbete hoy y deja que la aventura comience!",
+      "items": [
+        "🔹 Conexión con la Naturaleza: Las actividades al aire libre fomentan el amor y el respeto por el medio ambiente, permitiendo a los niños explorar y disfrutar del aire fresco.",
+        "🔹 Mejora de la Condición Física: Las sesiones dinámicas incluyen juegos, carreras y ejercicios que aumentan la resistencia y la fuerza, ayudando a los niños a mantenerse activos.",
+        "🔹 Fomento de Habilidades Sociales: Las actividades grupales promueven el trabajo en equipo y la comunicación, ayudando a los niños a hacer amigos y desarrollar habilidades interpersonales.",
+        "🔹 Aumento de la Creatividad y la Imaginación: El entorno natural estimula la creatividad, permitiendo a los niños inventar juegos y actividades mientras se divierten."
+      ],
+      "callToAction": "¡Inscríbete Ahora y Da el Primer Paso hacia la Diversión al Aire Libre!",
+      "imageUrl": "/img/foto-clases-ninos/kardio-kiikboxing.jpg"
+    },
+    "juegos": {
+      "label": "Juegos Recreacionales",
+      "title": "¡Juega y Aprende! Clases de Entrenamiento Personal para Niños a Través de Juegos",
+      "description": "Transforma el tiempo de juego en una experiencia de aprendizaje activa y divertida. Nuestras clases de juegos están diseñadas para mantener a los niños en movimiento mientras desarrollan habilidades físicas, sociales y emocionales. ¡Inscríbete hoy y deja que tus hijos se diviertan mientras crecen!",
+      "items": [
+        "Fomento de la Actividad Física: A través de juegos dinámicos, los niños mejorarán su resistencia, fuerza y coordinación mientras se divierten.",
+        "Desarrollo de Habilidades Sociales: Las actividades en grupo enseñan a los niños a colaborar, comunicarse y resolver problemas juntos, fortaleciendo sus lazos de amistad.",
+        "Estimulación de la Creatividad: Los juegos permiten a los niños usar su imaginación, inventando nuevas formas de jugar y creando sus propias reglas.",
+        "Aumento de la Confianza y la Autoestima: Al participar y triunfar en diversas actividades, los niños desarrollan una mayor confianza en sus habilidades y un sentido de logro."
+      ],
+      "callToAction": "¡Inscríbete Ahora y Permite que el Juego Sea el Mejor Maestro!",
+      "imageUrl": "/img/foto-clases-ninos/soccer.jpg"
+    },
+    "artesinterpretativas": {
+      "label": "Artes Interpretativas",
+      "title": "¡Expresa tu Creatividad! Clases de Entrenamiento Personal en Artes Interpretativas para Niños",
+      "description": "Sumérgete en el emocionante mundo de las artes interpretativas, donde tus hijos pueden explorar su creatividad y aprender a comunicarse a través de la danza, el teatro y la música. Nuestras clases están diseñadas para fomentar la autoexpresión y el desarrollo emocional. ¡Inscríbete hoy y deja que la imaginación vuele!",
+      "items": [
+        "🔹 Fomento de la Creatividad y la Imaginación: A través de diversas actividades artísticas, los niños desarrollarán su capacidad de inventar y crear, expresando sus pensamientos y emociones de manera única.",
+        "🔹 Mejora de la Confianza y la Autoestima: Al presentarse y compartir su trabajo con otros, los niños ganan confianza en sí mismos y en sus habilidades, aprendiendo a valorar su voz.",
+        "🔹 Desarrollo de Habilidades Sociales: Las actividades grupales fomentan la colaboración y la comunicación, ayudando a los niños a hacer amigos y a trabajar en equipo.",
+        "🔹 Estimulación del Pensamiento Crítico: Las artes interpretativas invitan a los niños a reflexionar sobre su trabajo y el de los demás, promoviendo habilidades de análisis y apreciación artística."
+      ],
+      "callToAction": "¡Inscríbete Ahora y Deja que tus Hijos Brillen en el Escenario!"
+    }
+  }
+}

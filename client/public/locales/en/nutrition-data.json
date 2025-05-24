@@ -1,0 +1,35 @@
+{
+  "nutrition": {
+    "title": "Smart Nutrition for a Healthy Body",
+    "description": "Diet, Nutrition",
+    "videoSrc": "/video/nutrition.mp4"
+  },
+  "offers": {
+    "nutrition": {
+      "label": "Nutrition",
+      "title": "Customized Plans to Enhance Your Training",
+      "description": "Nutrition is the key to achieving the best results in your training. With personalized nutritional guidance, you will learn to nourish your body in a balanced way, optimizing your energy and physical performance. Sign up today and transform your health from the inside out!",
+      "items": [
+        "🔹More Energy and Performance ⚡: Eat smart to improve your performance in training and daily life.",
+        "🔹Better Muscle Recovery 💪: Learn what to eat before and after exercise to maximize your results and reduce fatigue.",
+        "🔹Weight Control and Body Composition 🔥: Discover how to balance your diet to gain muscle, lose fat, or maintain your best shape.",
+        "🔹Healthy Habits for a Lifetime 🥦: Adopt a conscious and sustainable diet that helps you feel good inside and out."
+      ],
+      "callToAction": "Discover the power of personalized nutrition and take your performance to the next level!",
+      "imageUrl": ""
+    },
+    "diet": {
+      "label": "Diet",
+      "title": "🥑 Design the Perfect Diet for Your Goals",
+      "description": "Reaching your fitness goals depends not only on exercise but also on what you eat. With a personalized diet tailored to your body and objectives, you will optimize your energy, improve your performance, and transform your health. Start today and give your body the fuel it needs!",
+      "items": [
+        "🔹Weight Loss or Muscle Gain 🏆: Adjust your diet to effectively burn fat or build muscle.",
+        "🔹Better Digestion and Overall Health 🌿: Learn to choose the right foods to improve your well-being and vitality.",
+        "🔹Portion Control and Healthy Habits 🍽️: It’s not about eating less, but about eating better and more consciously.",
+        "🔹More Energy and Less Fatigue ⚡: Follow a diet that keeps your body active and in its best shape every day."
+      ],
+      "callToAction": "Start Your Change Today with a Custom Diet Plan!",
+      "imageUrl": ""
+    }
+  }
+}

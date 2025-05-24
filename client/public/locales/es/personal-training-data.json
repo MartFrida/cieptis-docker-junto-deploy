@@ -1,0 +1,217 @@
+{
+  "personalTraining": {
+    "title": "Más que un entrenamiento, un estilo de vida",
+    "description": "Nuestro equipo de entrenadores y terapeutas te guiará en cada paso del camino para que alcances tus metas de forma segura y efectiva.",
+    "videoSrc": "/video/entr-pers.mp4"
+  },
+  "offers": {
+    "running": {
+      "label": "Running",
+      "title": "🏃‍♂️ ¡Corre más rápido, más fuerte, más inteligente! 🏃‍♀️",
+      "description": "Ya sea que estés entrenando para tu primera carrera de 5 km, una maratón o simplemente quieras mejorar tu resistencia, mi entrenamiento de carrera personalizado te ayudará a alcanzar tus objetivos. ¡Llevemos tu carrera al siguiente nivel!",
+      "items": [
+        "🔹Planes de carrera personalizados: adaptados a tu nivel de experiencia y objetivos.",
+        "🔹Análisis de técnica y forma: mejore la eficiencia y reduzca el riesgo de lesiones.",
+        "🔹Entrenamiento para maratones y carreras: 5K, 10K, media maratón, maratón completa y ultra.",
+        "🔹Entrenamientos de fuerza y movilidad: ejercicios esenciales para desarrollar el cuerpo de un corredor.",
+        "🔹Orientación nutricional personalizada: alimenta tus carreras de la manera correcta."
+      ],
+      "callToAction": "🚀 ¿Está listo para trabajar de manera más inteligente? ¡Contácteme hoy para una evaluación gratuita!",
+      "imageUrl": "/img/foto-section/running-sect.jpg"
+    },
+    "calistenia": {
+      "label": "Calistenia",
+      "title": "¡Libera todo tu potencial con calistenia!",
+      "description": "Como entrenador personal certificado de Street Workout y calistenia, te ayudo a lograr una fuerza, una movilidad y una resistencia increíbles, ¡usando únicamente tu cuerpo! Ya seas principiante o un atleta avanzado, creo planes de entrenamiento personalizados para dominar las habilidades de peso corporal, como los muscle-ups, las planchas y las paradas de manos. ¡Construyamos una versión más fuerte y ágil de ti!",
+      "items": [
+        "👉 Planes de entrenamiento personalizados",
+        "👉 Fuerza, movilidad y pérdida de grasa",
+        "👉 Niveles principiante a avanzado",
+        "💥 ¡Entrena en cualquier lugar y en cualquier momento! 💥"
+      ],
+      "imageUrl": "/img/foto-section/gymnast.jpg"
+    },
+    "halterofilia": {
+      "label": "Halterofilia",
+      "title": "Halterofilia 🏋️‍♂️ Levanta más fuerza. Levanta más inteligentemente.🏋️‍♀️",
+      "description": "¿Estás listo para superar tus límites y desarrollar fuerza real? Ya sea que quieras batir récords personales, mejorar tu técnica o ponerte en la mejor forma de tu vida, mi entrenamiento de levantamiento de pesas está diseñado para ayudarte a lograr tus objetivos de manera segura y efectiva.",
+      "items": [
+        "🔹Planes de levantamiento de pesas personalizados: adaptados a sus objetivos, ya sea que busque aumentar la fuerza, desarrollar músculos o mejorar la forma.",
+        "🔹 Levantamiento de pesas olímpico: domine el clean & jerk, el arranque y otros levantamientos olímpicos con entrenamiento experto.",
+        "🔹 Entrenamiento de levantamiento de pesas: programación enfocada en sentadillas, press de banca y peso muerto para desarrollar fuerza bruta.",
+        "🔹 Technique Coaching – Improve your lift form and execution to prevent injuries and maximize results.",
+        "🔹 Strength & Mobility Workouts – Enhance your mobility and functional strength to improve performance."
+      ],
+      "callToAction": "💥 Transforma tu fuerza: ¡comienza hoy!💥",
+      "imageUrl": "/img/foto-section/halterofilia-foto.jpg"
+    },
+    "culturismo": {
+      "label": "Culturismo",
+      "title": "Culturismo 💪 ¡Construye el cuerpo que siempre has deseado!💪",
+      "description": "Ya sea que estés buscando ganar masa muscular, definir tu físico o esculpir tu cuerpo a la perfección, estoy aquí para guiarte en cada paso del camino. Como tu entrenador de culturismo dedicado, te ayudaré a maximizar tu entrenamiento, nutrición y recuperación para lograr los mejores resultados.",
+      "items": [
+        "Planes de entrenamiento de culturismo personalizados: diseñados para desarrollar músculos, mejorar la simetría y reducir la grasa corporal",
+        "Entrenamiento de fuerza y ​​masa muscular: programas enfocados para aumentar el tamaño y la fuerza de los músculos",
+        "Preparación para la competencia: entrenamiento personalizado para competencias de culturismo, que incluye poses, dieta y estrategia para la semana pico",
+        "Orientación nutricional: planes de alimentación personalizados para alimentar su cuerpo para un máximo crecimiento muscular y pérdida de grasa",
+        "Recuperación y prevención de lesiones: estrategias para una recuperación óptima, salud de las articulaciones y para evitar el agotamiento"
+      ],
+      "imageUrl": "/img/amaruk3.jpg"
+    },
+    "fitnes": {
+      "label": "Fitness",
+      "title": "Fitness🏋️‍♀️ ¡Consigue tu mejor forma con entrenamiento físico personalizado! 🏃‍♂️",
+      "description": "Ya sea que seas nuevo en el mundo del fitness o que estés buscando superar un estancamiento, mis programas de entrenamiento personalizados están diseñados para ayudarte a desarrollar fuerza, mejorar la resistencia y sentirte lo mejor posible. Desde la pérdida de peso hasta la ganancia de masa muscular, estoy aquí para guiarte en cada paso del camino.",
+      "items": [
+        "🔹Planes de fitness personalizados: adaptados a sus objetivos y nivel de condición física, ya sea que desee perder grasa, ganar masa muscular o mejorar su salud en general.",
+        "🔹 Fuerza y ​​acondicionamiento: desarrolle músculos, aumente la fuerza y ​​mejore su estado físico general con entrenamientos de fuerza específicos.",
+        "🔹 Entrenamiento cardiovascular y de resistencia: mejora la resistencia, la salud cardiovascular y la aguante a través de entrenamientos divertidos y desafiantes.",
+        "🔹 Programas de pérdida de peso: ejercicios efectivos y estrategias de nutrición para ayudarte a perder peso y no recuperarlo.",
+        "🔹 Entrenamiento de postura y movilidad: mejore la flexibilidad, prevenga lesiones y mejore la movilidad con ejercicios especializados."
+      ],
+      "callToAction": "🚀 ¿Está listo para trabajar de manera más inteligente? ¡Contácteme hoy para una evaluación gratuita!",
+      "imageUrl": "/img/foto-section/fitnes-zumba.jpg"
+    },
+    "natacion": {
+      "label": "Natacion",
+      "title": "Natacion 🏊‍♂️ ¡Sumérgete en tu mejor desempeño en natación!",
+      "description": "Ya sea que seas un principiante que busca aprender los conceptos básicos o un nadador experimentado que busca mejorar su técnica y resistencia, estoy aquí para ayudarte a liberar todo tu potencial en la piscina. Con entrenamiento de natación personalizado, mejoraremos la eficiencia de tus brazadas, desarrollaremos fuerza y ​​llevaremos tus habilidades de natación al siguiente nivel.",
+      "items": [
+        "🔹 Planes de entrenamiento de natación personalizados: adaptados a tu nivel de habilidad y objetivos, ya sea para acondicionamiento físico, técnica o preparación para la competencia.",
+        "🔹 Mejora de la técnica de brazada: entrenamiento centrado en las cuatro brazadas principales (libre, braza, espalda y mariposa) para mejorar la eficiencia y la velocidad.",
+        "🔹 Entrenamiento de resistencia y velocidad: desarrolle resistencia y potencia a través de entrenamientos de natación personalizados diseñados para aumentar el rendimiento.",
+        "🔹 Entrenamiento de natación en aguas abiertas: entrenamiento para natación al aire libre, que incluye seguridad, técnica y estrategia para triatlones o fitness.",
+        "🔹 Natación para mantenerse en forma y perder peso: entrenamientos de cuerpo completo de bajo impacto que queman calorías y mejoran la salud cardiovascular."
+      ],
+      "callToAction": "🚀 ¡Alcanza tus objetivos de natación! Reserva una consulta hoy para hablar sobre tu plan de entrenamiento.",
+      "imageUrl": "/img/foto-section/nadar-foto.jpg"
+    },
+    "senderismo": {
+      "label": "Senderismo",
+      "title": "Senderismo 🥾 Entrena para los senderos: ¡desarrolla fuerza, resistencia y preparación para la aventura! 🌿",
+      "description": "Ya sea que te estés preparando para tu primera aventura de senderismo, que quieras hacer una caminata desafiante o que simplemente quieras mejorar tu estado físico al aire libre, estoy aquí para ayudarte. Mis programas de entrenamiento de senderismo personalizados se centran en la resistencia, la fuerza y ​​la movilidad para que cada caminata sea más fácil y agradable.",
+      "items": [
+        "🔹 Fuerza y ​​acondicionamiento para excursionistas: desarrolle la fuerza de las piernas, el torso y la parte superior del cuerpo para afrontar subidas empinadas y caminatas largas.",
+        "🔹 Entrenamientos cardiovasculares y de resistencia: aumente la resistencia para caminatas más largas y a mayores alturas.",
+        "🔹 Entrenamiento para mochileros y cargas: prepárese para caminatas de varios días mejorando la capacidad de carga y la estabilidad.",
+        "🔹 Movilidad y prevención de lesiones: reduzca el riesgo de dolor de rodilla, tobillo y espalda con ejercicios de flexibilidad y equilibrio.",
+        "🔹 Preparación para caminatas a gran altitud y trekking: entrenamiento específico para caminatas en altura, mejorando la respiración y la eficiencia del oxígeno."
+      ],
+      "callToAction": "🚀 ¡Prepárate para el senderismo! Ponte en contacto conmigo hoy mismo para comenzar tu programa de entrenamiento de senderismo personalizado.",
+      "imageUrl": "/img/foto-section/senderizmo.jpg"
+    },
+    "espining": {
+      "label": "Spinning",
+      "title": "Transforma tu energía con el Spinning",
+      "description": "Descubre el poder del entrenamiento en bicicleta indoor y alcanza tu mejor versión. Con sesiones personalizadas y motivadoras, mejorarás tu resistencia, fuerza y bienestar general. ¡Empieza hoy y pedalea hacia tus objetivos!",
+      "items": [
+        "Quema calorías y mejora tu condición física con sesiones de alta intensidad.",
+        "Fortalece tu corazón y pulmones con entrenamientos cardiovasculares efectivos.",
+        "Reduce el estrés y mejora tu estado de ánimo gracias a la combinación de ejercicio y música motivadora."
+      ],
+      "imageUrl": "/img/foto-section/cycling-spinning.jpg"
+    },
+    "defensa": {
+      "label": "Defensa Personal",
+      "title": "Defensa Personal. Aprende a Defenderte y Gana Confianza",
+      "description": "Domina técnicas efectivas de defensa personal mientras mejoras tu condición física y seguridad. Con entrenamiento adaptado a todos los niveles, desarrollarás habilidades prácticas para protegerte en cualquier situación. ¡Empieza hoy y fortalece cuerpo y mente! Te ofrezco sesiones adaptadas a tu condición física y objetivos, ya sea que quieras aprender técnicas de autodefensa, mejorar tu fuerza y resistencia o ganar confianza en situaciones de riesgo. Entrena de manera individual, en grupo o en empresas que buscan mayor seguridad para sus empleados.",
+      "items": [
+        "🔹Aumenta tu seguridad y confianza aprendiendo técnicas efectivas y fáciles de aplicar.",
+        "🔹 Mejora tu estado físico con entrenamientos dinámicos que fortalecen tu cuerpo.",
+        "🔹 Reduce el estrés y refuerza tu mentalidad al sentirte preparado ante cualquier situación.",
+        "🔹 Aprende a actuar en momentos de peligro con estrategias de respuesta rápida."
+      ],
+      "imageUrl": "/img/foto-section/defenza-personal.jpg"
+    },
+    "mma": {
+      "label": "MMA",
+      "title": "Domina las MMA y Supera tus Límites",
+      "description": "Desarrolla fuerza, resistencia y técnica con entrenamientos personalizados en Artes Marciales Mixtas. Aprende golpes, derribos y sumisiones mientras mejoras tu condición física y confianza. ¡Entrena como un luchador, sin importar tu nivel! Ofrezco clases individuales y grupales de MMA para todos los niveles. Aprenderás técnicas efectivas de golpeo, agarre y defensa, combinando la intensidad de un deporte de combate con ejercicios funcionales que mejoran tu fuerza y resistencia. ¡Entrena con un plan diseñado para tus objetivos!",
+      "items": [
+        "🔹 Desarrolla fuerza, velocidad y resistencia con entrenamientos intensivos.",
+        "🔹 Aprende técnicas de golpeo y combate en el suelo para defensa personal o competencia.",
+        "🔹 Mejora tu confianza y mentalidad con estrategias de lucha efectivas.",
+        "🔹 Quema calorías y mejora tu estado físico mientras aprendes habilidades de combate."
+      ],
+      "imageUrl": "/img/foto-section/pt-mma.jpg"
+    },
+    "taichi": {
+      "label": "Tai Chi",
+      "title": "Equilibrio, Energía y Bienestar con Tai Chi",
+      "description": "Descubre el poder del Tai Chi para mejorar tu salud física y mental. Con movimientos fluidos y controlados, aprenderás a fortalecer tu cuerpo, reducir el estrés y aumentar tu vitalidad. ¡Empieza hoy tu camino hacia el equilibrio!",
+      "items": [
+        "🔹 Mejora tu equilibrio y coordinación con movimientos suaves y controlados.",
+        "🔹 Reduce el estrés y la ansiedad mediante técnicas de respiración y concentración.",
+        "🔹 Fortalece tu cuerpo y mente con una práctica que mejora la flexibilidad y la circulación.",
+        "🔹 Aumenta tu energía vital con un entrenamiento que armoniza cuerpo y espíritu."
+      ],
+      "callToAction": "Conéctate con tu cuerpo y mente a través del Tai Chi. Escríbeme para más información y reserva tu primera sesión. ¡Empieza tu camino hacia una vida más armoniosa!",
+      "imageUrl": "/img/foto-section/tp-tay-chi.jpg"
+    },
+    "estreching": {
+      "label": "Stretching",
+      "title": "Flexibilidad, Movilidad y Bienestar con Stretching",
+      "description": "Descubre el poder del stretching para mejorar tu movilidad, reducir tensiones y prevenir lesiones. Con sesiones personalizadas, aprenderás técnicas efectivas para relajar y fortalecer tu cuerpo. ¡Empieza hoy a sentirte más ágil y libre de molestias!",
+      "items": [
+        "🔹 Aumenta tu flexibilidad y movilidad con estiramientos adaptados a tu cuerpo.",
+        "🔹 Alivia dolores y tensiones musculares mejorando la circulación y la postura.",
+        "🔹 Previene lesiones y mejora tu rendimiento en cualquier actividad física.",
+        "🔹 Reduce el estrés y la fatiga a través de movimientos suaves y controlados."
+      ],
+      "callToAction": "Empieza a Sentirte Más Libre y Ágil! No esperes a sentir molestias para mejorar tu movilidad. Escríbeme y reserva tu primera sesión de stretching. ¡Tu cuerpo te lo agradecerá!",
+      "imageUrl": "/img/foto-section/streching.jpg"
+    },
+    "pilates": {
+      "label": "Pilates",
+      "title": "Fortalece tu Cuerpo y Mente con Pilates",
+      "description": "Ofrezco entrenamientos individuales y grupales de Pilates, diseñados para mejorar tu postura, tonificar tu cuerpo y prevenir lesiones. Ya sea que busques Pilates en suelo o con accesorios, te guiaré en cada ejercicio para maximizar sus beneficios. Disponible en formato presencial y online.",
+      "items": [
+        "🔹 Mejora tu postura y alinea tu cuerpo con ejercicios controlados.",
+        "🔹 Fortalece tu core y mejora tu estabilidad para prevenir dolores y lesiones.",
+        "🔹 Aumenta tu flexibilidad y movilidad con movimientos fluidos y precisos.",
+        "🔹 Reduce el estrés y mejora tu concentración a través de la respiración y el control del cuerpo."
+      ],
+      "callToAction": "Cuida tu cuerpo y mente con un entrenamiento diseñado para mejorar tu bienestar. Escríbeme para más información y reserva tu primera sesión. ¡Tu cambio empieza hoy!",
+      "imageUrl": "/img/foto-section/pilates.jpg"
+    },
+    "yoga": {
+      "label": "Yoga",
+      "title": "Equilibra tu Cuerpo y Mente con Yoga",
+      "description": "Descubre los beneficios del yoga para fortalecer tu cuerpo, mejorar tu flexibilidad y reducir el estrés. Con sesiones personalizadas, te guiaré en cada postura y técnica de respiración para que alcances bienestar y armonía. ¡Empieza hoy tu transformación!",
+      "items": [
+        "🔹 Mejora tu flexibilidad y equilibrio con posturas adaptadas a tu nivel.",
+        "🔹 Fortalece tu cuerpo y alivia dolores con movimientos suaves y efectivos.",
+        "🔹Reduce el estrés y la ansiedad a través de técnicas de respiración y meditación.",
+        "🔹 Aumenta tu energía y bienestar al conectar cuerpo, mente y respiración."
+      ],
+      "callToAction": "Empieza Tu Viaje con el Yoga Conéctate contigo mismo a través del yoga. Escríbeme para más información y reserva tu primera sesión. ¡Tu bienestar te espera!",
+      "imageUrl": "/img/foto-section/yoga-mom.jpg"
+    },
+    "meditación": {
+      "label": "La Meditación al Aire Libre",
+      "title": "🌿 Clases Personalizadas de Meditación al Aire Libre 🌿",
+      "description": "Libérate del estrés y mejora tu bienestar con nuestras sesiones de meditación al aire libre. Diseñadas para ayudarte a conectar contigo mismo y con la naturaleza, estas clases te enseñarán técnicas de respiración, relajación y mindfulness para alcanzar un estado de calma y claridad mental. ¡Inscríbete hoy y da el primer paso hacia una vida más equilibrada!",
+      "items": [
+        "🔹 Reducción del Estrés y la Ansiedad 🧘‍♂️: Aprende a controlar tus emociones y a encontrar serenidad en medio del ritmo acelerado del día a día.",
+        "🔹 Mayor Concentración y Enfoque 🎯: La práctica de la meditación fortalece la mente, mejorando tu capacidad de atención y toma de decisiones.",
+        "🔹Conexión con la Naturaleza 🍃: Respirar aire puro y meditar en espacios abiertos potencia la sensación de bienestar y armonía interior.",
+        "🔹 Bienestar Físico y Emocional 💖: Relaja tu cuerpo, mejora la calidad del sueño y refuerza la autoestima a través de la meditación guiada."
+      ],
+      "callToAction": "¡Empieza tu camino hacia la tranquilidad hoy mismo!",
+      "imageUrl": "/img/foto-section/meditacion-al-aire-libre.webp"
+    },
+    "boxing": {
+      "label": "Boxeo",
+      "title": "Entrena Como un Boxeador, Transforma tu Cuerpo",
+      "description": "Descubre el poder del boxeo para mejorar tu fuerza, resistencia y confianza. Con sesiones personalizadas, aprenderás técnica, estrategia y acondicionamiento físico mientras te pones en la mejor forma de tu vida. ¡Empieza hoy y golpea tus límites!",
+      "items": [
+        "🔹 Mejora tu resistencia y fuerza con entrenamientos de alto impacto.",
+        "🔹 Aprende técnicas de golpeo y defensa para ganar confianza y seguridad.",
+        "🔹 Quema calorías y mejora tu condición física con rutinas dinámicas y desafiantes.",
+        "🔹 Reduce el estrés y mejora tu concentración a través de la disciplina del boxeo."
+      ],
+      "callToAction": "Escríbeme y agenda tu primera sesión. ¡Es hora de subir al ring!",
+      "imageUrl": "/img/foto-section/boxing.jpg"
+    }
+  }
+}

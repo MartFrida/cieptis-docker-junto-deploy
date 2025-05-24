@@ -1,0 +1,27 @@
+{
+  "title": "Les Nostres Tarifes",
+  "actionBtn": "Triar",
+  "variados": [
+    {
+      "title": "Entrenament a Distància (ONLINE)",
+      "description": "Entrenament personalitzat des de la comoditat de casa teva.",
+      "por1clase": "€20 per 1 classe / 1 hora",
+      "por1mes8": "€160 €150 per 1 mes / 8 hores",
+      "por1mes12": "€240 €220 per 1 mes / 12 hores"
+    },
+    {
+      "title": "Entrenament a Domicili / Parc",
+      "description": "Entrenament personal a casa teva o en un parc proper.",
+      "por1clase": "€25 per 1 classe / 1 hora",
+      "por1mes8": "€200 €180 per 1 mes / 8 hores",
+      "por1mes12": "€300 €280 per 1 mes / 12 hores"
+    },
+    {
+      "title": "Entrenament en Gimnàs",
+      "description": "Entrenament en un gimnàs amb accés a totes les instal·lacions.",
+      "por1clase": "€35 per 1 classe / 1 hora",
+      "por1mes8": "€280 €250 per 1 mes / 8 hores",
+      "por1mes12": "€420 €380 per 1 mes / 12 hores"
+    }
+  ]
+}

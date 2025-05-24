@@ -1,0 +1,7 @@
+/assets/* /assets/:splat 200
+/* /index.html 200
+
+# Перенаправление с http://centroentrenadores.com на https://www.centroentrenadores.com
+http://centroentrenadores.com/* https://centroentrenadores.com/:splat 301
+http://www.centroentrenadores.com/* https://centroentrenadores.com/:splat 301
+/personal-training  /entrenador-personal  301

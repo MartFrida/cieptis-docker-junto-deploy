@@ -1,0 +1,27 @@
+{
+  "title": "Our Rates",
+  "actionBtn": "Choose",
+  "variados": [
+    {
+      "title": "Online Training",
+      "description": "Personalized training from the comfort of your home.",
+      "por1clase": "€20 for 1 class / 1 hour",
+      "por1mes8": "€160 €150 for 1 month / 8 hours",
+      "por1mes12": "€240 €220 for 1 month / 12 hours"
+    },
+    {
+      "title": "Home / Park Training",
+      "description": "Personal training at your home or in a nearby park.",
+      "por1clase": "€25 for 1 class / 1 hour",
+      "por1mes8": "€200 €180 for 1 month / 8 hours",
+      "por1mes12": "€300 €280 for 1 month / 12 hours"
+    },
+    {
+      "title": "Gym Training",
+      "description": "Training in a gym with access to all facilities.",
+      "por1clase": "€35 for 1 class / 1 hour",
+      "por1mes8": "€280 €250 for 1 month / 8 hours",
+      "por1mes12": "€420 €380 for 1 month / 12 hours"
+    }
+  ]
+}

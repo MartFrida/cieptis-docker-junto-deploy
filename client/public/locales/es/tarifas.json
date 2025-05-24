@@ -1,0 +1,27 @@
+{
+  "title": "Nuestras Tarifas",
+  "actionBtn": "Elegir",
+  "variados": [
+    {
+      "title": "Entrenamiento a Distancia (ONLINE)",
+      "description": "Entrenamiento personalizado desde la comodidad de tu hogar.",
+      "por1clase": "€20 por 1 clase / 1 hora",
+      "por1mes8": "€160 €150 por 1 mes / 8 horas",
+      "por1mes12": "€240 €220 por 1 mes / 12 horas"
+    },
+    {
+      "title": "Entrenamiento en Domicilio / Parque",
+      "description": "Entrenamiento personal en tu hogar o en un parque cercano.",
+      "por1clase": "€25 por 1 clase / 1 hora",
+      "por1mes8": "€200 €180 por 1 mes / 8 horas",
+      "por1mes12": "€300 €280 por 1 mes / 12 horas"
+    },
+    {
+      "title": "Entrenamiento en Gimnasio",
+      "description": "Entrenamiento en un gimnasio con acceso a todas las instalaciones.",
+      "por1clase": "€35 por 1 clase / 1 hora",
+      "por1mes8": "€280 €250 por 1 mes / 8 horas",
+      "por1mes12": "€420 €380 por 1 mes / 12 horas"
+    }
+  ]
+}

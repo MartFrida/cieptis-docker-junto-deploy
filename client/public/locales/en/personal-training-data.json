@@ -1,0 +1,217 @@
+{
+  "personalTraining": {
+    "title": "More than training, a lifestyle",
+    "description": "Our team of trainers and therapists will guide you every step of the way to help you reach your goals safely and effectively.",
+    "videoSrc": "/video/entr-pers.mp4"
+  },
+  "offers": {
+    "running": {
+      "label": "Running",
+      "title": "🏃‍♂️ Run faster, stronger, smarter! 🏃‍♀️",
+      "description": "Whether you're training for your first 5K, a marathon, or just want to improve your endurance, my personalized running training will help you reach your goals. Let's take your running to the next level!",
+      "items": [
+        "🔹 Personalized running plans: tailored to your experience level and goals.",
+        "🔹 Technique and form analysis: improve efficiency and reduce injury risk.",
+        "🔹 Training for marathons and races: 5K, 10K, half marathon, full marathon, and ultra.",
+        "🔹 Strength and mobility training: essential exercises to develop the body of a runner.",
+        "🔹 Personalized nutritional guidance: fuel your runs the right way."
+      ],
+      "callToAction": "🚀 Ready to work smarter? Contact me today for a free evaluation!",
+      "imageUrl": "/img/foto-section/running-sect.jpg"
+    },
+    "calistenia": {
+      "label": "Calisthenics",
+      "title": "Unleash your full potential with calisthenics!",
+      "description": "As a certified Street Workout and calisthenics trainer, I help you achieve incredible strength, mobility, and endurance using only your body! Whether you're a beginner or an advanced athlete, I create personalized training plans to master bodyweight skills like muscle-ups, planks, and handstands. Let’s build a stronger, more agile version of you!",
+      "items": [
+        "👉 Personalized training plans",
+        "👉 Strength, mobility, and fat loss",
+        "👉 Beginner to advanced levels",
+        "💥 Train anywhere, anytime! 💥"
+      ],
+      "imageUrl": "/img/foto-section/gymnast.jpg"
+    },
+    "halterofilia": {
+      "label": "Weightlifting",
+      "title": "Weightlifting 🏋️‍♂️ Lift more powerfully. Lift smarter.🏋️‍♀️",
+      "description": "Are you ready to break your limits and build real strength? Whether you want to set personal records, improve your technique, or get in the best shape of your life, my weightlifting training is designed to help you reach your goals safely and effectively.",
+      "items": [
+        "🔹 Personalized weightlifting plans: tailored to your goals, whether you're looking to increase strength, build muscle, or improve form.",
+        "🔹 Olympic weightlifting: master the clean & jerk, snatch, and other Olympic lifts with expert coaching.",
+        "🔹 Weightlifting training: programming focused on squats, bench press, and deadlifts to develop raw strength.",
+        "🔹 Technique coaching – Improve your lift form and execution to prevent injuries and maximize results.",
+        "🔹 Strength & mobility workouts – Enhance your mobility and functional strength to improve performance."
+      ],
+      "callToAction": "💥 Transform your strength: start today!💥",
+      "imageUrl": "/img/foto-section/halterofilia-foto.jpg"
+    },
+    "culturismo": {
+      "label": "Bodybuilding",
+      "title": "Bodybuilding 💪 Build the body you've always wanted!💪",
+      "description": "Whether you're looking to gain muscle mass, define your physique, or sculpt your body to perfection, I'm here to guide you every step of the way. As your dedicated bodybuilding coach, I will help you maximize your training, nutrition, and recovery to achieve the best results.",
+      "items": [
+        "Personalized bodybuilding training plans: designed to build muscle, improve symmetry, and reduce body fat",
+        "Strength and muscle mass training: programs focused on increasing muscle size and strength",
+        "Competition preparation: personalized training for bodybuilding competitions, including posing, diet, and peak-week strategy",
+        "Nutritional guidance: personalized meal plans to fuel your body for maximum muscle growth and fat loss",
+        "Recovery and injury prevention: strategies for optimal recovery, joint health, and preventing burnout"
+      ],
+      "imageUrl": "/img/amaruk3.jpg"
+    },
+    "fitnes": {
+      "label": "Fitness",
+      "title": "Fitness🏋️‍♀️ Get in your best shape with personalized physical training! 🏃‍♂️",
+      "description": "Whether you're new to fitness or looking to break through a plateau, my personalized training programs are designed to help you build strength, improve endurance, and feel your best. From weight loss to muscle gain, I'm here to guide you every step of the way.",
+      "items": [
+        "🔹 Personalized fitness plans: tailored to your goals and fitness level, whether you want to lose fat, gain muscle, or improve your overall health.",
+        "🔹 Strength and conditioning: develop muscle, increase strength, and improve overall fitness with specific strength workouts.",
+        "🔹 Cardiovascular and endurance training: improve stamina, cardiovascular health, and endurance through fun and challenging workouts.",
+        "🔹 Weight loss programs: effective exercises and nutrition strategies to help you lose weight and keep it off.",
+        "🔹 Posture and mobility training: improve flexibility, prevent injuries, and enhance mobility with specialized exercises."
+      ],
+      "callToAction": "🚀 Ready to work smarter? Contact me today for a free evaluation!",
+      "imageUrl": "/img/foto-section/fitnes-zumba.jpg"
+    },
+    "natacion": {
+      "label": "Swimming",
+      "title": "Swimming 🏊‍♂️ Dive into your best swimming performance!",
+      "description": "Whether you're a beginner looking to learn the basics or an experienced swimmer seeking to improve your technique and endurance, I’m here to help you unleash your full potential in the pool. With personalized swimming training, we'll improve your stroke efficiency, build strength, and take your swimming skills to the next level.",
+      "items": [
+        "🔹 Personalized swimming training plans: tailored to your skill level and goals, whether for fitness, technique, or competition preparation.",
+        "🔹 Stroke technique improvement: training focused on the four main strokes (freestyle, breaststroke, backstroke, and butterfly) to improve efficiency and speed.",
+        "🔹 Endurance and speed training: develop stamina and power through personalized swimming workouts designed to increase performance.",
+        "🔹 Open water swimming training: training for outdoor swimming, including safety, technique, and strategy for triathlons or fitness.",
+        "🔹 Swimming for fitness and weight loss: full-body low-impact workouts that burn calories and improve cardiovascular health."
+      ],
+      "callToAction": "🚀 Reach your swimming goals! Book a consultation today to discuss your training plan.",
+      "imageUrl": "/img/foto-section/nadar-foto.jpg"
+    },
+    "senderismo": {
+      "label": "Hiking",
+      "title": "Hiking 🥾 Train for the trails: develop strength, endurance, and adventure readiness! 🌿",
+      "description": "Whether you're preparing for your first hiking adventure, tackling a challenging hike, or simply looking to improve your outdoor fitness, I'm here to help. My personalized hiking training programs focus on endurance, strength, and mobility to make every hike easier and more enjoyable.",
+      "items": [
+        "🔹 Strength and conditioning for hikers: develop leg, torso, and upper body strength for tackling steep ascents and long hikes.",
+        "🔹 Cardiovascular and endurance training: increase stamina for longer hikes and higher altitudes.",
+        "🔹 Backpacking and load training: prepare for multi-day hikes by improving load-bearing capacity and stability.",
+        "🔹 Mobility and injury prevention: reduce the risk of knee, ankle, and back pain with flexibility and balance exercises.",
+        "🔹 High-altitude hiking and trekking preparation: specific training for high-altitude hikes, improving breathing and oxygen efficiency."
+      ],
+      "callToAction": "🚀 Get ready for hiking! Contact me today to start your personalized hiking training program.",
+      "imageUrl": "/img/foto-section/senderizmo.jpg"
+    },
+    "espining": {
+      "label": "Spinning",
+      "title": "Transform your energy with Spinning",
+      "description": "Discover the power of indoor cycling training and reach your best version. With personalized and motivating sessions, you'll improve your endurance, strength, and overall well-being. Start today and pedal towards your goals!",
+      "items": [
+        "Burn calories and improve your fitness with high-intensity sessions.",
+        "Strengthen your heart and lungs with effective cardiovascular workouts.",
+        "Reduce stress and improve your mood through exercise and motivating music."
+      ],
+      "imageUrl": "/img/foto-section/cycling-spinning.jpg"
+    },
+    "defensa": {
+      "label": "Self-defense",
+      "title": "Self-defense. Learn to Defend Yourself and Gain Confidence",
+      "description": "Master effective self-defense techniques while improving your fitness and safety. With training tailored to all levels, you'll develop practical skills to protect yourself in any situation. Start today and strengthen both body and mind! I offer sessions tailored to your fitness level and goals, whether you want to learn self-defense techniques, improve strength and endurance, or gain confidence in risky situations. Train individually, in groups, or in companies seeking more security for their employees.",
+      "items": [
+        "🔹 Increase your safety and confidence by learning effective and easy-to-apply techniques.",
+        "🔹 Improve your fitness with dynamic workouts that strengthen your body.",
+        "🔹 Reduce stress and strengthen your mindset by feeling prepared for any situation.",
+        "🔹 Learn how to act in dangerous moments with quick-response strategies."
+      ],
+      "imageUrl": "/img/foto-section/defenza-personal.jpg"
+    },
+    "mma": {
+      "label": "MMA",
+      "title": "Master MMA and Push Your Limits",
+      "description": "Develop strength, endurance, and technique with personalized Mixed Martial Arts training. Learn strikes, takedowns, and submissions while improving your fitness and confidence. Train like a fighter, no matter your level! I offer individual and group MMA classes for all levels. You'll learn effective striking, grappling, and defense techniques, combining the intensity of a combat sport with functional exercises that enhance your strength and endurance. Train with a plan designed for your goals!",
+      "items": [
+        "🔹 Develop strength, speed, and endurance with intensive workouts.",
+        "🔹 Learn striking and ground combat techniques for self-defense or competition.",
+        "🔹 Improve your confidence and mindset with effective fighting strategies.",
+        "🔹 Burn calories and improve your fitness while learning combat skills."
+      ],
+      "imageUrl": "/img/foto-section/pt-mma.jpg"
+    },
+    "taichi": {
+      "label": "Tai Chi",
+      "title": "Balance, Energy, and Well-being with Tai Chi",
+      "description": "Discover the power of Tai Chi to improve your physical and mental health. With smooth and controlled movements, you will learn to strengthen your body, reduce stress, and increase vitality. Start your journey towards balance today!",
+      "items": [
+        "🔹 Improve your balance and coordination with smooth and controlled movements.",
+        "🔹 Reduce stress and anxiety through breathing and concentration techniques.",
+        "🔹 Strengthen your body and mind with a practice that improves flexibility and circulation.",
+        "🔹 Increase your vital energy with training that harmonizes body and spirit."
+      ],
+      "callToAction": "Connect with your body and mind through Tai Chi. Contact me for more information and book your first session. Start your journey towards a more harmonious life!",
+      "imageUrl": "/img/foto-section/tp-tay-chi.jpg"
+    },
+    "estreching": {
+      "label": "Stretching",
+      "title": "Flexibility, Mobility, and Well-being with Stretching",
+      "description": "Discover the power of stretching to improve your mobility, reduce tension, and prevent injuries. With personalized sessions, you will learn effective techniques to relax and strengthen your body. Start today to feel more agile and free from discomfort!",
+      "items": [
+        "🔹 Increase your flexibility and mobility with stretches tailored to your body.",
+        "🔹 Relieve muscle pain and tension by improving circulation and posture.",
+        "🔹 Prevent injuries and improve performance in any physical activity.",
+        "🔹 Reduce stress and fatigue through smooth and controlled movements."
+      ],
+      "callToAction": "Start Feeling More Free and Agile! Don’t wait for discomfort to improve your mobility. Contact me and book your first stretching session. Your body will thank you!",
+      "imageUrl": "/img/foto-section/streching.jpg"
+    },
+    "pilates": {
+      "label": "Pilates",
+      "title": "Strengthen your Body and Mind with Pilates",
+      "description": "I offer individual and group Pilates training designed to improve your posture, tone your body, and prevent injuries. Whether you're looking for floor Pilates or reformer training, my personalized sessions will help you achieve better balance, flexibility, and strength.",
+      "items": [
+        "🔹 Improve your posture and strengthen your muscles.",
+        "🔹 Focus on core strength, flexibility, and injury prevention.",
+        "🔹 Enhance your overall fitness with low-impact exercises.",
+        "🔹 Adapted to your needs: beginner or advanced level."
+      ],
+      "callToAction": "Ready to improve your flexibility and strength? Start today with a personalized Pilates session!",
+      "imageUrl": "/img/foto-section/pilates.jpg"
+    },
+    "yoga": {
+      "label": "Yoga",
+      "title": "Balance Your Body and Mind with Yoga",
+      "description": "Discover the benefits of yoga to strengthen your body, improve flexibility, and reduce stress. With personalized sessions, I will guide you through each pose and breathing technique to help you achieve wellness and harmony. Start your transformation today!",
+      "items": [
+        "🔹 Improve your flexibility and balance with poses tailored to your level.",
+        "🔹 Strengthen your body and relieve pain with gentle and effective movements.",
+        "🔹 Reduce stress and anxiety through breathing and meditation techniques.",
+        "🔹 Boost your energy and well-being by connecting body, mind, and breath."
+      ],
+      "callToAction": "Start Your Yoga Journey. Connect with yourself through yoga. Contact me for more information and book your first session. Your well-being is waiting for you!",
+      "imageUrl": "/img/foto-section/yoga-mom.jpg"
+    },
+    "meditación": {
+      "label": "Outdoor Meditation",
+      "title": "🌿 Personalized Outdoor Meditation Classes 🌿",
+      "description": "Free yourself from stress and improve your well-being with our outdoor meditation sessions. Designed to help you connect with yourself and nature, these classes will teach you breathing techniques, relaxation, and mindfulness to achieve a state of calm and mental clarity. Sign up today and take the first step towards a more balanced life!",
+      "items": [
+        "🔹 Stress and Anxiety Reduction 🧘‍♂️: Learn how to control your emotions and find serenity amidst the fast pace of everyday life.",
+        "🔹 Improved Concentration and Focus 🎯: The practice of meditation strengthens the mind, enhancing your attention and decision-making ability.",
+        "🔹 Connection with Nature 🍃: Breathing fresh air and meditating in open spaces boosts the sense of well-being and inner harmony.",
+        "🔹 Physical and Emotional Well-being 💖: Relax your body, improve sleep quality, and boost self-esteem through guided meditation."
+      ],
+      "callToAction": "Start your path to tranquility today!",
+      "imageUrl": "/img/foto-section/meditacion-al-aire-libre.webp"
+    },
+    "boxing": {
+      "label": "Boxing",
+      "title": "Train Like a Boxer, Transform Your Body",
+      "description": "Discover the power of boxing to improve your strength, endurance, and confidence. With personalized sessions, you'll learn technique, strategy, and physical conditioning while getting into the best shape of your life. Start today and punch through your limits!",
+      "items": [
+        "🔹 Improve your endurance and strength with high-impact training.",
+        "🔹 Learn striking and defense techniques to gain confidence and security.",
+        "🔹 Burn calories and improve your fitness with dynamic and challenging routines.",
+        "🔹 Reduce stress and improve your concentration through the discipline of boxing."
+      ],
+      "callToAction": "Contact me and schedule your first session. It's time to step into the ring!",
+      "imageUrl": "/img/foto-section/boxing.jpg"
+    }
+  }
+}

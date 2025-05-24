@@ -1,0 +1,148 @@
+{
+  "personalTraining": "Personal Training",
+  "clasesInfantiles": "Kids Classes",
+  "nutrition": "Nutrition",
+  "tarifas": "Rates",
+  "actionBtn": "Contact Us",
+  "servicios": "Services",
+  "leermas": "read more",
+  "leermeno": "read less",
+  "home": {
+    "title": "CENTER FOR PERSONAL TRAINERS AND INTEGRATIVE HEALTH THERAPIES",
+    "description": "Motivation is what gets you started. Habit is what keeps you going.",
+    "welcome": {
+      "title": "Make your well-being a priority in Barcelona!",
+      "paragraf1": "We help you achieve your personal goals with fully customized training plans. Whether you want to improve your physical performance, lose weight, or boost your energy, we will design an exclusive program for you.",
+      "paragraf2": "You can choose private training or join a group, depending on what motivates you most. Our personal trainers provide 100% dedicated attention to ensure you achieve the best results.",
+      "paragraf3": "Turning a healthy lifestyle into a habit will be easy, and we take care of every detail. Just tell us when and where, and we’ll handle the rest!",
+      "final": "Start your journey to a new you!"
+    },
+    "offer": {
+      "title": "We offer personal training sessions at:",
+      "list": [
+        "Our facilities",
+        "Your home",
+        "Your office",
+        "Outdoors: in the park, on the beach…"
+      ]
+    },
+    "fundador": {
+      "button": "Discover More",
+      "quote": "Investing in yourself is the most valuable investment you can make. We will be happy to guide you on your journey to better health, fitness, and performance.",
+      "cv": {
+        "titleFormacion": "Education:",
+        "listFormacion": [
+          "Bachelor's Degree in Physical Activity and Sports Sciences from the Central University of Ecuador, registered under number 52.5001.",
+          "Certified Journalist from the European Academy of Journalism in Spain, class of 2025.",
+          "Certified Strength Training Coach by the International Center for Sports Teaching LIFE, year 2000, Madrid.",
+          "Multidisciplinary Master and International Champion of South America, holds 6 Black Belts, 5th Dan in:",
+          "Taekwondo - Hapkido - Kick Boxing - Judo - Full Contact - Sambo.",
+          "Internationally recognized by the following federations: WTF, ITF, WHF, WAKO, FIDAM, FET.",
+          "Certified in Lifeguarding and First Aid by the Spanish Red Cross, BCN 2025."
+        ],
+        "titleExperiencia": "Experience:",
+        "listExperiencia": [
+          "Technical Director and Instructor at various sports centers in Spain and Ecuador.",
+          "Personal trainer for elite athletes, celebrities, models, and individuals seeking a healthy lifestyle.",
+          "Expert in Sports Performance and competitive training for Police, Firefighters, and Security Guards.",
+          "Certified Acupuncturist and Digitopuncture Specialist from 'Center Acupuntura Kee Wong Youg', Barcelona 2004.",
+          "Dietitian and Nutritionist, expert advisor for both professional and amateur bodybuilders.",
+          "Author of 34 published books in Spain and on Amazon worldwide.",
+          "Personal Trainer and creator of the 'Sistem Power' — a metamorphic transformation of mind, body, and spirit.",
+          "Producer and registered journalist with SPC - SPM - FEP - FIP - AEP, contributing to various media outlets.",
+          "Traditional Andean Therapist and Personal Motivator using NLP. Lecturer and Professor at universities such as: CAMU, UCM, UCE, PUSE, UAB, etc."
+        ],
+        "masInfoBtn": "More Information on Wikipedia"
+      }
+    },
+    "equipoTitle": "Our Team of Personal Trainers",
+    "equipo": [
+      {
+        "image": "/img/equipo/equipo-3.jpeg",
+        "title": "Strength and Conditioning Specialist",
+        "description": "10 years of experience in strength training. Certified in Olympic weightlifting. Has worked with professional athletes."
+      },
+      {
+        "image": "/img/equipo/trener-fitnes.jpg",
+        "title": "Functional Fitness Coach",
+        "description": "Expert in functional training and mobility. Certified in CrossFit Level 2. Focused on performance improvement and injury prevention."
+      },
+      {
+        "image": "/img/equipo/equipo-5.jpeg",
+        "title": "Weight Loss Specialist",
+        "description": "Over 8 years helping people transform their bodies. Certified in sports nutrition. Designs personalized training and diet plans."
+      },
+      {
+        "image": "/img/equipo/equipo-1.jpeg",
+        "title": "Yoga and Pilates Instructor",
+        "description": "Certified in therapeutic yoga and Pilates. Promotes physical and mental well-being. Personalized sessions to improve flexibility and balance."
+      },
+      {
+        "image": "/img/equipo/equipo-4.jpeg",
+        "title": "Sports Performance Coach",
+        "description": "Specialist in sports training. Has worked with football teams and high-performance athletes. Designs specific programs based on the sport discipline."
+      },
+      {
+        "image": "/img/equipo/equipo-6.jpeg",
+        "title": "Endurance and Marathon Coach",
+        "description": "Expert in running and endurance sports. Advisor for marathon and triathlon preparation. Creates customized training plans for all levels."
+      }
+    ],
+    "porque": {
+      "title": "Why Choose Us?",
+      "list": [
+        "Quick and effective results with workouts tailored to your level and progress.",
+        "Personalized attention from certified professionals in training and health.",
+        "Flexible schedules so you can train at your convenience.",
+        "Innovative methods combining exercise, recovery, and holistic well-being."
+      ]
+    },
+    "programas": {
+      "title": "Most Popular Programs",
+      "part1": {
+        "subtitle": "Weight Loss Training",
+        "listDescription": "We help you reach your ideal weight with a structured plan that includes:",
+        "list": [
+          "Cardio and high-intensity exercises to burn fat.",
+          "Muscle toning and strengthening.",
+          "Guidance on healthy habits and nutrition."
+        ]
+      },
+      "part2": {
+        "subtitle": "Muscle Gain Training",
+        "listDescription": "Increase your strength and define your muscles with sessions focused on:",
+        "list": [
+          "Strength routines with progressive overload.",
+          "Advanced techniques like supersets and functional training.",
+          "Balanced body development to prevent injuries."
+        ]
+      },
+      "part3": {
+        "subtitle": "Integrative Health Therapies",
+        "listDescription": "We complement your training with therapies designed to improve your physical and mental well-being:",
+        "list": [
+          "Osteopathy and physiotherapy for muscle recovery.",
+          "Relaxation therapies and stress reduction.",
+          "Biomechanical assessments to enhance performance."
+        ]
+      },
+      "fintitle": "The Advantage of a Holistic Approach",
+      "finDescription": "Our trainers and therapists work together to enhance your health from all angles. Not only will you improve physically, but you will also feel a greater sense of harmony and balance in your daily life.",
+      "finCall": "Join our community and start your transformation today!"
+    }
+  },
+  "contactForm": {
+    "isSent": "Form successfully submitted!",
+    "inputName": "Name",
+    "inputEmail": "Email",
+    "inputPhone": "Phone",
+    "inputMessage": "Message",
+    "methodCommunication": "Preferred method of communication:",
+    "methodComTel": "Call",
+    "methodComWrite": "SMS",
+    "methodComEmail": "Email",
+    "choiseHorary": "Choose a convenient time for us to contact you:",
+    "choiseAntes": "As soon as possible",
+    "sendBtn": "Send"
+  }
+}

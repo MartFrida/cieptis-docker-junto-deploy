@@ -1,0 +1,148 @@
+{
+  "personalTraining": "Entrenas Personales",
+  "clasesInfantiles": "Clases Infantiles",
+  "nutrition": "Nutrition",
+  "tarifas": "Tarifas",
+  "actionBtn": "Contáctenos",
+  "servicios": "Servicios",
+  "leermas": "leer más",
+  "leermeno": "leer menos",
+  "home": {
+    "title": "CENTRO DE ENTRENADORES PERSONALES Y TERAPIAS INTEGRALES DE LA SALUD",
+    "description": "La motivación es lo que te hace empezar. El hábito es lo que mantiene el progreso.",
+    "welcome": {
+      "title": "¡Haz que tu bienestar sea una prioridad en Barcelona!",
+      "paragraf1": "Te ayudamos a lograr tus objetivos personales con planes de entrenamiento completamente adaptados a ti. No importa si buscas mejorar tu rendimiento físico, reducir medidas o aumentar tu energía, diseñaremos un programa exclusivo para ti.",
+      "paragraf2": "Puedes optar por entrenamientos privados o unirte a un grupo, según lo que más te motive. Nuestro equipo de entrenadores personales te brindará atención 100% dedicada para garantizar que alcances el mejor de los resultados.",
+      "paragraf3": "Transformar un estilo de vida saludable en un hábito será sencillo, y nosotros nos encargamos de cada detalle. Solo dinos cuándo y dónde, ¡y nosotros nos encargamos del resto!",
+      "final": "¡Сomienza tu viaje hacia un nuevo tú! "
+    },
+    "offer": {
+      "title": "Ofrecemos sesiones de entrenamiento personal en:",
+      "list": [
+        "Nuestras instalaciones",
+        "En tu casa",
+        "En tu oficina",
+        "Outdoor: en el parque, la playa…"
+      ]
+    },
+    "fundador": {
+      "button": "Descubra más",
+      "quote": "Invertir en ti mismo es la inversión más valiosa que puedes hacer. Estaremos encantados de guiarle en su camino hacia una mejor salud, estado físico y rendimiento.",
+      "cv": {
+        "titleFormacion": "Formación:",
+        "listFormacion": [
+          "Licenciado en Ciencias de la Actividad Física y del Deporte por la Universidad Central del Ecuador Colegiado 52.5001.",
+          "Periodista diplomado por La Academia Europea de Periodismo en España año 2025.",
+          "Entrenador de Musculación por Centro Internacional de Profesorado Deportivo LIFE año 2000 Madrid.",
+          "Maestro multidisciplinar campeón Internacional de Sur América, tiene 6 Cinturones Negros 5to Dan en:",
+          "Taekwondo - Hapkido - Kick Boxing - Judo - Full Contact - Sambo.",
+          "Reconocido a nivel mundial por las Federaciones: WTF, ITF, WHF, WAKO, FIDAM, FET.",
+          "Curso de Socorismo y Primeros Auxilios por la Cruz Roja Española, BCN 2025."
+        ],
+        "titleExperiencia": "Experiencia:",
+        "listExperiencia": [
+          "Director Técnico y Profesor de varios centros deportivos en España y Ecuador.",
+          "Entrenador personal de deportistas de élite, celebrities, modelos y personas que quieren llevar una vida sana y saludable.",
+          "Experto en Rendimiento Deportivo y oposiciones para Policías, Bomberos, Guardias de Seguridad.",
+          "Médico Acupunturista y Digito-puntura Diplomado en &quot;Center Acupuntura Kee Wong Youg&quot; Barcelona 2004.",
+          "Dietista y Nutricionista experto asesor para Culturistas profesionales y amateur.",
+          "Autor de 34 libros publicados en España y en Amazon a nivel mundial.",
+          "Entrenador Personal y creador del &quot;Sistem Power&quot; La transformación metamorfosis de mente, cuerpo, y espíritu.",
+          "Productor y periodista colegiado SPC - SPM - FEP - FIP - AEP de varios medios de comunicación.",
+          "Terapeuta tradicional Andino y Motivador personal PNL. Conferencista y Catedrático educacional en universidades como: CAMU, UCM, UCE, PUSE, UAB, etc."
+        ],
+        "masInfoBtn": "Más Información en Wikipedia"
+      }
+    },
+    "equipoTitle": "Nuestro Equipo de Entrenadores Personales",
+    "equipo": [
+      {
+        "image": "/img/equipo/equipo-3.jpeg",
+        "title": "Especialista en fuerza y acondicionamiento",
+        "description": "10 años de experiencia en entrenamiento de fuerza. Certificado en levantamiento olímpico. Ha trabajado con atletas profesionales."
+      },
+      {
+        "image": "/img/equipo/trener-fitnes.jpg",
+        "title": "Coach de fitness funcional",
+        "description": "Experta en entrenamiento funcional y movilidad. Certificación en CrossFit Level 2. Enfocada en mejorar el rendimiento y prevención de lesiones."
+      },
+      {
+        "image": "/img/equipo/equipo-5.jpeg",
+        "title": "Especialista en pérdida de peso",
+        "description": "Más de 8 años ayudando a transformar cuerpos. Certificado en nutrición deportiva. Diseña planes personalizados de entrenamiento y dieta."
+      },
+      {
+        "image": "/img/equipo/equipo-1.jpeg",
+        "title": "Instructora de yoga y pilates",
+        "description": "Certificada en yoga terapéutico y pilates. Fomenta el bienestar físico y mental. Sesiones personalizadas para mejorar la flexibilidad y el equilibrio."
+      },
+      {
+        "image": "/img/equipo/equipo-4.jpeg",
+        "title": "Preparador físico para deportes",
+        "description": "Especialista en entrenamiento deportivo. Ha trabajado con equipos de fútbol y atletas de alto rendimiento. Diseño de programas específicos según la disciplina deportiva."
+      },
+      {
+        "image": "/img/equipo/equipo-6.jpeg",
+        "title": "Entrenador de resistencia y maratón",
+        "description": "Expert en running y deportes de resistencia. Asesor en preparación para maratones y triatlones. Crea planes de entrenamiento adaptados a cada nivel."
+      }
+    ],
+    "porque": {
+      "title": "¿Por qué elegirnos?",
+      "list": [
+        "Resultados rápidos y efectivos con entrenamientos adaptados a tu nivel y evolución.",
+        "Atención personalizada con profesionales certificados en entrenamiento y salud.",
+        "Flexibilidad de horarios para que entrenes cuando mejor te convenga.",
+        "Métodos innovadores que combinan ejercicio, recuperación y bienestar integral."
+      ]
+    },
+    "programas": {
+      "title": "Las programas más solicitados",
+      "part1": {
+        "subtitle": "Entrenamiento para perder peso",
+        "listDescription": "Te ayudamos a alcanzar tu peso ideal con un plan estructurado que incluye:",
+        "list": [
+          "Ejercicios cardiovasculares y de alta intensidad para quemar grasa.",
+          "Tonificación y fortalecimiento muscular.",
+          "Asesoramiento en hábitos saludables y nutrición."
+        ]
+      },
+      "part2": {
+        "subtitle": "Entrenamiento para ganar masa muscular",
+        "listDescription": "Aumenta tu fuerza y define tu musculatura con sesiones enfocadas en:",
+        "list": [
+          "Rutinas de fuerza con cargas progresivas.",
+          "Técnicas avanzadas como superseries y entrenamiento funcional.",
+          "Desarrollo equilibrado del cuerpo, previniendo lesiones."
+        ]
+      },
+      "part3": {
+        "subtitle": "Terapias integrales de la salud",
+        "listDescription": "Complementamos tu entrenamiento con terapias diseñadas para mejorar tu bienestar físico y mental:",
+        "list": [
+          "Osteopatía y fisioterapia para la recuperación muscular.",
+          "Terapias de relajación y reducción del estrés.",
+          "Evaluaciones biomecánicas para mejorar el rendimiento."
+        ]
+      },
+      "fintitle": "La ventaja de un enfoque integral",
+      "finDescription": "Nuestros entrenadores y terapeutas trabajan juntos para potenciar tu salud desde todos los ángulos. No solo mejorarás físicamente, sino que también sentirás una mayor armonía y equilibrio en tu vida diaria.",
+      "finCall": "¡Únete a nuestra comunidad y empieza tu transformación hoy mismo!"
+    }
+  },
+  "contactForm": {
+    "isSent": "¡Formulario enviado exitosamente!",
+    "inputName": "Nombre",
+    "inputEmail": "E-mail",
+    "inputPhone": "Teléfono",
+    "inputMessage": "Mensaje",
+    "methodCommunication": "NomMétodo de comunicación preferido:",
+    "methodComTel": "Llamar",
+    "methodComWrite": "SMS",
+    "methodComEmail": "Email",
+    "choiseHorary": "Elija un horario conveniente para usted para contactarnos:",
+    "choiseAntes": "Lo antes posible",
+    "sendBtn": "Enviar"
+  }
+}

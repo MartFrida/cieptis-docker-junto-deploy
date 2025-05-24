@@ -1,0 +1,125 @@
+{
+  "clacesInfantiles": {
+    "title": "Entrenament Personal per a Nens: Diversió i Moviment!",
+    "description": "Deixa que el teu fill descobreixi el plaer de moure's i estar actiu!",
+    "videoSrc": "/video/video_trena2.mp4"
+  },
+  "offers": {
+    "taekwondo": {
+      "label": "Taekwondo",
+      "title": "Entrena Com un Guerret! Desenvolupa Força i Disciplina a través del Taekwondo",
+      "description": "Descobreix l'art del Taekwondo i transforma no només el teu cos, sinó també la teva ment. A les nostres classes personalitzades per a nens, aprendran tècniques de cop de peu, defensa personal i valors com el respecte i la perseverança. Uneix-te avui i comença el teu viatge cap a l'excel·lència!",
+      "items": [
+        "🔹Millora la Coordinació i la Flexibilitat: A través de moviments dinàmics i exercicis específics, els teus fills desenvoluparan habilitats motrius i una millor mobilitat.",
+        "🔹Fomenta la Confiança i la Disciplina: Amb cada cinturó que aconsegueixen, aprendran a establir metes i a superar-se, construint la seva autoestima.",
+        "🔹Augmenta la Força i la Resistència: Les classes intensives ajudaran els teus nens a millorar el seu condicionament físic, mantenint-los actius i saludables.",
+        "🔹Desenvolupament Social i Treball en Equip: Les sessions en grup fomenten la camaraderia i ensenyen la importància de treballar junts per aconseguir objectius comuns."
+      ],
+      "callToAction": "Inscriu-te Ara i Desperta el Guerret que Porten Dins!",
+      "imageUrl": "/img/foto-clases-ninos/karate.jpg"
+    },
+    "judo": {
+      "label": "Judo",
+      "title": "Entrena Com un Campió! Desenvolupa Habilitats i Confiança a través del Judo i maneig de Nunchaku",
+      "description": "Descobreix la emocionant disciplina del Judo, on els teus fills aprendran no només tècniques de combat, sinó també valors com la humilitat i el respecte. Les nostres classes personalitzades estan dissenyades per ajudar els nens a desenvolupar força, agilitat i una mentalitat guanyadora. Uneix-te avui i comença a construir un futur ple d'aconteixements!",
+      "items": [
+        "Millora la Força i l'Agilitat: 👉 A través de moviments de llençament i caigudes, els nens desenvoluparan una gran força física i habilitats motrius.",
+        "👉 Fomenta la Disciplina i la Concentració: El Judo ensenya als nens a concentrar-se i seguir instruccions, millorant la seva capacitat d'atenció en altres aspectes de la vida.",
+        "👉 Augmenta la Confiança i l'Autoestima: En aprendre i dominar noves tècniques, els teus fills guanyaran confiança en ells mateixos i en les seves habilitats.",
+        "💥 Desenvolupament d'Habilitats Socials: Les classes en grup fomenten el treball en equip i el respecte cap a els altres, creant vincles d'amistat i camaraderia.💥"
+      ],
+      "callToAction": "Inscriu-te Ara i Fes que Cada Caiguda Sigui un Pas Cap a l'Èxit!",
+      "imageUrl": "/img/foto-clases-ninos/judo.jpg"
+    },
+    "mmaninos": {
+      "label": "MMA",
+      "title": "Entrena Com un Lluitador! Desenvolupa Força i Habilitats a través de les Arts Marcials Mixtes",
+      "description": "Descobreix el món emocionant de les Arts Marcials Mixtes, on els teus fills aprendran tècniques de diverses disciplines, incloent el boxeig, el judo i el kickboxing. Les nostres classes personalitzades estan dissenyades per fomentar la confiança, la disciplina i el treball en equip. Uneix-te avui i comença a construir habilitats que duraran tota la vida!",
+      "items": [
+        "🔹 Millora la Condició Física i l'Agilitat: Les rutines d'entrenament dinàmiques ajuden als nens a desenvolupar força, resistència i coordinació.",
+        "🔹 Fomenta la Disciplina i l'Autoestima: Aprendre a manejar situacions de combat de manera segura i respectuosa enforteix l'autoestima i l'autocontrol.",
+        "🔹 Desenvolupament d'Habilitats de Defensa Personal: Els nens aprendran tècniques efectives per defensar-se, el que els donarà seguretat tant al dojo com a la vida diària.",
+        "🔹 Treball en Equip i Amistat: Les classes en grup fomenten la camaraderia i ensenyen la importància de donar-se suport mútuament en el camí cap a l'èxit."
+      ],
+      "callToAction": "💥 Inscriu-te Ara i Allibera el Potencial del Lluitador que Porten Dins! 💥",
+      "imageUrl": "/img/foto-clases-ninos/trena.jpg"
+    },
+    "hapkido": {
+      "label": "Hapkido",
+      "title": "Entrena Com un Mestre! Desenvolupa Equilibri i Confiança a través del Hapkido",
+      "description": "Descobreix l'art marcial del Hapkido, on els teus fills aprendran a combinar tècniques de defensa personal, cop de peu i claus. Les nostres classes personalitzades estan dissenyades per fomentar la confiança, l'autoregulació i la disciplina. Uneix-te avui i permet que els teus nens es converteixin en guerrers segurs i respectuosos!",
+      "items": [
+        "Millora la Coordinació i l'Equilibri: Les tècniques de Hapkido ajuden els nens a desenvolupar habilitats motrius essencials i un sentit de l'equilibri.",
+        "Fomenta la Disciplina i el Respecte: El Hapkido ensenya als nens la importància de l'autodisciplina i el respecte cap als altres, valors que aplicaran a la seva vida diària.",
+        "Augmenta la Confiança i l'Autoestima: En aprendre i dominar noves tècniques, els nens guanyen confiança en si mateixos i en la seva capacitat per afrontar reptes.",
+        "Desenvolupament d'Habilitats de Defensa Personal: Amb un enfocament en la defensa personal, els teus fills aprendran a manejar situacions difícils de manera segura i efectiva."
+      ],
+      "callToAction": "💥 Inscriu-te Ara i Desbloqueja el Potencial del Guerret Interior! 💥",
+      "imageUrl": "/img/foto-clases-ninos/ninos-group.jpg"
+    },
+    "cursosdeverano": {
+      "label": "Cursos d'Estiu",
+      "title": "Divertiu-vos i Apreneu aquest Estiu! Cursos d'Entrenament Personal per a Nens",
+      "description": "Aquest estiu, ofereix als teus fills una experiència única plena de diversió, activitat física i aprenentatge. Els nostres cursos d'estiu estan dissenyats per mantenir els nens actius mentre desenvolupen habilitats en diverses disciplines esportives. Inscriu-te avui i dona als teus fills un estiu inoblidable!",
+      "items": [
+        "🔹Augment de l'Activitat Física: Mantén als teus fills actius i saludables amb sessions d'entrenament dinàmiques que combinan jocs i exercicis.",
+        "🔹Foment de les Habilitats Socials: A través del treball en equip i activitats grupals, els teus fills aprendran a comunicar-se i col·laborar amb els seus companys.",
+        "🔹Desenvolupament de la Disciplina i la Concentració: Les classes estan dissenyades per ensenyar als nens la importància de la dedicació i l'enfocament, ajudant-los a aplicar aquests valors en altres aspectes de la seva vida.",
+        "🔹Diversió i Creativitat: Cada curs inclou activitats creatives i entretingudes que mantenen els nens motivats i emocionats per aprendre."
+      ],
+      "callToAction": "Inscriu-te Ara i Fes que Aquest Estiu Sigui el Millor de Tots!",
+      "imageUrl": "/img/foto-clases-ninos/group-people-working-out-together-outdoors.webp"
+    },
+    "excursiones": {
+      "label": "Excursions",
+      "title": "Aventures Inoblidables! Excursions per a Nens amb Entrenament Personal",
+      "description": "Aquest any, porta els teus fills a viure experiències úniques amb les nostres emocionants excursions. Dissenyades per combinar diversió i aprenentatge, aquestes sortides els permetran explorar la natura, practicar esports i fer nous amics. Uneix-te a nosaltres i crea records que duraran tota la vida!",
+      "items": [
+        "🔹Exploració i Connexió amb la Natura: Les excursions permeten als nens aprendre sobre el medi ambient mentre gaudeixen d'activitats a l'aire lliure, fomentant un estil de vida actiu i saludable.",
+        "🔹Desenvolupament d'Habilitats Socials: A través d'activitats grupals i dinàmiques, els nens milloraràn la seva capacitat de treballar en equip i faran nous amics en un ambient divertit.",
+        "🔹Augment de la Confiança i l'Autoestima: Les noves experiències i reptes ajuden els nens a superar els seus límits, el que enforteix la seva autoconfiança i els ensenya a afrontar situacions desconegudes.",
+        "🔹Foment de la Curiositat i l'Aprenentatge: Cada excursió està dissenyada per ser educativa, estimulant la curiositat i el desig d'aprendre sobre el món que els envolta."
+      ],
+      "callToAction": "Inscriu-te Ara i Prepara't per a una Aventura Èpica!",
+      "imageUrl": "/img/foto-clases-ninos/excursiones.jpg"
+    },
+    "airlibre": {
+      "label": "Activitats Lúdiques a l'Aire Lliure",
+      "title": "Divertiu-vos a l'Aire Lliure! Classes d'Entrenament Personal per a Nens i Adults",
+      "description": "Aquest és el moment perfecte perquè els teus fills es connectin amb la natura mentre es mantenen actius i saludables. Les nostres classes a l'aire lliure ofereixen un ambient emocionant i motivador on els nens poden aprendre i jugar. Inscriu-te avui i deixa que l'aventura comenci!",
+      "items": [
+        "🔹Connexió amb la Natura: Les activitats a l'aire lliure fomenten l'amor i el respecte cap al medi ambient, permetent als nens explorar i gaudir de l'aire fresc.",
+        "🔹Millora de la Condició Física: Les sessions dinàmiques inclouen jocs, curses i exercicis que augmenten la resistència i la força, ajudant els nens a mantenir-se actius.",
+        "🔹Foment de les Habilitats Socials: Les activitats grupals promouen el treball en equip i la comunicació, ajudant els nens a fer amics i desenvolupar habilitats interpersonals.",
+        "🔹Augment de la Creativitat i la Imaginació: L'entorn natural estimula la creativitat, permetent als nens inventar jocs i activitats mentre es diverteixen."
+      ],
+      "callToAction": "Inscriu-te Ara i Dona el Primer Pas cap a la Diversió a l'Aire Lliure!",
+      "imageUrl": "/img/foto-clases-ninos/kardio-kiikboxing.jpg"
+    },
+    "juegos": {
+      "label": "Jocs Recreatius",
+      "title": "Juga i Aprèn! Classes d'Entrenament Personal per a Nens a través de Jocs",
+      "description": "Transforma el temps de joc en una experiència d'aprenentatge activa i divertida. Les nostres classes de jocs estan dissenyades per mantenir els nens en moviment mentre desenvolupen habilitats físiques, socials i emocionals. Inscriu-te avui i deixa que els teus fills s'ho passin bé mentre creixen!",
+      "items": [
+        "Foment de l'Activitat Física: A través de jocs dinàmics, els nens milloraran la seva resistència, força i coordinació mentre s'ho passen bé.",
+        "Desenvolupament d'Habilitats Socials: Les activitats en grup ensenyen als nens a col·laborar, comunicar-se i resoldre problemes junts, enfortint els seus vincles d'amistat.",
+        "Estimular la Creativitat: Els jocs permeten als nens fer servir la seva imaginació, inventant noves formes de jugar i creant les seves pròpies regles.",
+        "Augment de la Confiança i l'Autoestima: En participar i triomfar en diverses activitats, els nens desenvoluparan una major confiança en les seves habilitats i un sentit d'assoliment."
+      ],
+      "callToAction": "Inscriu-te Ara i Permet que el Joc sigui el Millor Mestre!",
+      "imageUrl": "/img/foto-clases-ninos/soccer.jpg"
+    },
+    "artesinterpretativas": {
+      "label": "Arts Interpretatives",
+      "title": "Expressa la Teva Creativitat! Classes d'Entrenament Personal en Arts Interpretatives per a Nens",
+      "description": "Submergeix-te en el món emocionant de les arts interpretatives, on els teus fills poden explorar la seva creativitat i aprendre a comunicar-se a través de la dansa, el teatre i la música. Les nostres classes estan dissenyades per fomentar l'autoexpressió i el desenvolupament emocional. Inscriu-te avui i deixa que la imaginació voli!",
+      "items": [
+        "🔹Foment de la Creativitat i la Imaginació: A través de diverses activitats artístiques, els nens desenvoluparan la seva capacitat d'inventar i crear, expressant els seus pensaments i emocions de manera única.",
+        "🔹Millora de la Confiança i l'Autoestima: En presentar-se i compartir el seu treball amb els altres, els nens guanyen confiança en ells mateixos i en les seves habilitats, aprenent a valorar la seva veu.",
+        "🔹Desenvolupament d'Habilitats Socials: Les activitats grupals fomenten la col·laboració i la comunicació, ajudant els nens a fer amics i a treballar en equip.",
+        "🔹Estimular el Pensament Crític: Les arts interpretatives conviden els nens a reflexionar sobre el seu treball i el dels altres, promovent habilitats d'anàlisi i apreciació artística."
+      ],
+      "callToAction": "Inscriu-te Ara i Deixa que els Teus fills Brillin a l'Escenari!"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "nutrition": {
+    "title": "Nutrición Inteligente para un Cuerpo Saludable",
+    "description": "Dieta, Nutricion",
+    "videoSrc": "/video/nurtition.mp4"
+  },
+  "offers": {
+    "nutrition": {
+      "label": "Nutrition",
+      "title": " Planes Personalizados para Potenciar tu Entrenamiento",
+      "description": "La alimentación es la clave para obtener los mejores resultados en tu entrenamiento. Con asesoría nutricional personalizada, aprenderás a nutrir tu cuerpo de manera equilibrada, optimizando tu energía y rendimiento físico. ¡Inscríbete hoy y transforma tu salud desde adentro!",
+      "items": [
+        "🔹Más Energía y Rendimiento ⚡: Aliméntate de forma inteligente para mejorar tu desempeño en el entrenamiento y en la vida diaria.",
+        "🔹Mejor Recuperación Muscular 💪: Aprende qué comer antes y después del ejercicio para maximizar tus resultados y reducir la fatiga.",
+        "🔹Control de Peso y Composición Corporal 🔥: Descubre cómo equilibrar tu dieta para ganar músculo, perder grasa o mantenerte en tu mejor forma.",
+        "🔹Hábitos Saludables para Toda la Vida 🥦: Adopta una alimentación consciente y sostenible que te ayude a sentirte bien por dentro y por fuera."
+      ],
+      "callToAction": "¡Descubre el poder de la nutrición personalizada y lleva tu rendimiento al siguiente nivel!",
+      "imageUrl": ""
+    },
+    "dieta": {
+      "label": "Dieta",
+      "title": "🥑 Diseña la Dieta Perfecta para Tus Objetivos",
+      "description": "Alcanzar tus metas fitness no solo depende del ejercicio, sino también de lo que comes. Con una dieta personalizada según tu cuerpo y objetivos, optimizarás tu energía, mejorarás tu rendimiento y transformarás tu salud. ¡Empieza hoy y dale a tu cuerpo el combustible que necesita!",
+      "items": [
+        "🔹 Pérdida de Peso o Ganancia Muscular 🏆: Ajusta tu alimentación para quemar grasa o desarrollar músculo de manera efectiva.",
+        "🔹 Mejor Digestión y Salud General 🌿: Aprende a elegir los alimentos adecuados para mejorar tu bienestar y vitalidad.",
+        "🔹 Control de Porciones y Hábitos Saludables 🍽️: No se trata de comer menos, sino de comer mejor y de forma consciente.",
+        "🔹 Más Energía y Menos Fatiga ⚡: Sigue una dieta que mantenga tu cuerpo activo y en su mejor versión cada día."
+      ],
+      "callToAction": "¡¡Empieza Hoy Tu Cambio con un Plan de Dieta a Medida!",
+      "imageUrl": ""
+    }
+  }
+}

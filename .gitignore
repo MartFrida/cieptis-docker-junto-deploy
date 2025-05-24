@@ -1,0 +1,23 @@
+# Общие
+node_modules/
+dist/
+.env
+.env.* # например, .env.local, .env.production
+.DS_Store
+*.log
+
+# Vite
+client/.vite
+
+# Сборочные артефакты
+client/dist/
+server/public/
+
+# Docker
+*.local
+docker-compose.override.yml
+
+# IDE
+.vscode/
+.idea/
+*.swp

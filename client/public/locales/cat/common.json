@@ -1,0 +1,148 @@
+{
+  "personalTraining": "Entrenament Personal",
+  "clasesInfantiles": "Classes Infantils",
+  "nutrition": "Nutrició",
+  "tarifas": "Tarifes",
+  "actionBtn": "Contacta'ns",
+  "servicios": "Serveis",
+  "leermas": "llegir més",
+  "leermeno": "llegir menys",
+  "home": {
+    "title": "CENTRE D'ENTRENADORS PERSONALS I TERÀPIES INTEGRALS DE LA SALUT",
+    "description": "La motivació és el que et fa començar. L'hàbit és el que et manté en el camí.",
+    "welcome": {
+      "title": "Fes que el teu benestar sigui una prioritat a Barcelona!",
+      "paragraf1": "T'ajudem a assolir els teus objectius personals amb plans d'entrenament totalment adaptats a tu. Tant si vols millorar el teu rendiment físic, perdre pes o augmentar la teva energia, dissenyarem un programa exclusiu per a tu.",
+      "paragraf2": "Pots optar per entrenaments privats o unir-te a un grup, segons el que més et motivi. El nostre equip d'entrenadors personals t'oferirà una atenció 100% dedicada per garantir que assoleixis els millors resultats.",
+      "paragraf3": "Convertir un estil de vida saludable en un hàbit serà senzill, i nosaltres ens encarreguem de cada detall. Només digue'ns quan i on, i nosaltres ens ocupem de la resta!",
+      "final": "Comença el teu viatge cap a un nou tu!"
+    },
+    "offer": {
+      "title": "Oferim sessions d'entrenament personal a:",
+      "list": [
+        "Les nostres instal·lacions",
+        "Casa teva",
+        "La teva oficina",
+        "A l'aire lliure: al parc, a la platja…"
+      ]
+    },
+    "fundador": {
+      "button": "Descobreix més",
+      "quote": "Invertir en tu mateix és la inversió més valuosa que pots fer. Estarem encantats de guiar-te en el teu camí cap a una millor salut, condició física i rendiment.",
+      "cv": {
+        "titleFormacion": "Formació:",
+        "listFormacion": [
+          "Llicenciat en Ciències de l'Activitat Física i de l'Esport per la Universitat Central de l'Equador, col·legiat núm. 52.5001.",
+          "Periodista diplomat per l'Acadèmia Europea de Periodisme a Espanya, any 2025.",
+          "Entrenador de musculació pel Centre Internacional de Professorat Esportiu LIFE, any 2000, Madrid.",
+          "Mestre multidisciplinari i campió internacional de Sud-amèrica, posseeix 6 cinturons negres 5è Dan en:",
+          "Taekwondo - Hapkido - Kick Boxing - Judo - Full Contact - Sambo.",
+          "Reconeixement internacional per les federacions: WTF, ITF, WHF, WAKO, FIDAM, FET.",
+          "Curs de Socorrisme i Primers Auxilis impartit per la Creu Roja Espanyola, BCN 2025."
+        ],
+        "titleExperiencia": "Experiència:",
+        "listExperiencia": [
+          "Director tècnic i professor de diversos centres esportius a Espanya i a l'Equador.",
+          "Entrenador personal d'esportistes d'elit, celebritats, models i persones que volen portar una vida sana i saludable.",
+          "Expert en rendiment esportiu i preparació d'oposicions per a policies, bombers i vigilants de seguretat.",
+          "Metge acupuntor i especialista en digitopuntura diplomat al \"Center Acupuntura Kee Wong Youg\", Barcelona 2004.",
+          "Dietista i nutricionista, assessor expert per a culturistes professionals i amateurs.",
+          "Autor de 34 llibres publicats a Espanya i a nivell mundial a Amazon.",
+          "Entrenador personal i creador del \"Sistem Power\" — la transformació metamòrfica de ment, cos i esperit.",
+          "Productor i periodista col·legiat SPC - SPM - FEP - FIP - AEP en diversos mitjans de comunicació.",
+          "Terapeuta tradicional andí i motivador personal amb PNL. Conferenciant i catedràtic en universitats com: CAMU, UCM, UCE, PUSE, UAB, etc."
+        ],
+        "masInfoBtn": "Més informació a la Viquipèdia"
+      }
+    },
+    "equipoTitle": "El Nostre Equip d'Entrenadors Personals",
+    "equipo": [
+      {
+        "image": "/img/equipo/equipo-3.jpeg",
+        "title": "Especialista en força i condicionament",
+        "description": "10 anys d'experiència en entrenament de força. Certificat en aixecament olímpic. Ha treballat amb atletes professionals."
+      },
+      {
+        "image": "/img/equipo/trener-fitnes.jpg",
+        "title": "Coach de fitness funcional",
+        "description": "Experta en entrenament funcional i mobilitat. Certificada en CrossFit Level 2. Centrada en la millora del rendiment i la prevenció de lesions."
+      },
+      {
+        "image": "/img/equipo/equipo-5.jpeg",
+        "title": "Especialista en pèrdua de pes",
+        "description": "Més de 8 anys ajudant a transformar cossos. Certificat en nutrició esportiva. Dissenya plans personalitzats d'entrenament i dieta."
+      },
+      {
+        "image": "/img/equipo/equipo-1.jpeg",
+        "title": "Instructora de ioga i pilates",
+        "description": "Certificada en ioga terapèutic i pilates. Promou el benestar físic i mental. Sessions personalitzades per millorar la flexibilitat i l'equilibri."
+      },
+      {
+        "image": "/img/equipo/equipo-4.jpeg",
+        "title": "Preparador físic per a esports",
+        "description": "Especialista en entrenament esportiu. Ha treballat amb equips de futbol i atletes d'alt rendiment. Dissenya programes específics segons la disciplina esportiva."
+      },
+      {
+        "image": "/img/equipo/equipo-6.jpeg",
+        "title": "Entrenador de resistència i marató",
+        "description": "Expert en running i esports de resistència. Assessor en preparació per a maratons i triatlons. Crea plans d'entrenament adaptats a cada nivell."
+      }
+    ],
+    "porque": {
+      "title": "Per què triar-nos?",
+      "list": [
+        "Resultats ràpids i efectius amb entrenaments adaptats al teu nivell i evolució.",
+        "Atenció personalitzada amb professionals certificats en entrenament i salut.",
+        "Horaris flexibles perquè puguis entrenar quan millor et convingui.",
+        "Mètodes innovadors que combinen exercici, recuperació i benestar integral."
+      ]
+    },
+    "programas": {
+      "title": "Els programes més sol·licitats",
+      "part1": {
+        "subtitle": "Entrenament per perdre pes",
+        "listDescription": "T'ajudem a assolir el teu pes ideal amb un pla estructurat que inclou:",
+        "list": [
+          "Exercicis cardiovasculars i d'alta intensitat per cremar greix.",
+          "Tonificació i enfortiment muscular.",
+          "Assessorament en hàbits saludables i nutrició."
+        ]
+      },
+      "part2": {
+        "subtitle": "Entrenament per guanyar massa muscular",
+        "listDescription": "Augmenta la teva força i defineix la teva musculatura amb sessions enfocades en:",
+        "list": [
+          "Rutines de força amb càrregues progressives.",
+          "Tècniques avançades com supersèries i entrenament funcional.",
+          "Desenvolupament equilibrat del cos, prevenint lesions."
+        ]
+      },
+      "part3": {
+        "subtitle": "Teràpies integrals de la salut",
+        "listDescription": "Complementem el teu entrenament amb teràpies dissenyades per millorar el teu benestar físic i mental:",
+        "list": [
+          "Osteopatia i fisioteràpia per a la recuperació muscular.",
+          "Teràpies de relaxació i reducció de l'estrès.",
+          "Avaluacions biomecàniques per millorar el rendiment."
+        ]
+      },
+      "fintitle": "L'avantatge d'un enfocament integral",
+      "finDescription": "Els nostres entrenadors i terapeutes treballen junts per potenciar la teva salut des de tots els angles. No només milloraràs físicament, sinó que també sentiràs una major harmonia i equilibri en la teva vida diària.",
+      "finCall": "Uneix-te a la nostra comunitat i comença la teva transformació avui mateix!"
+    }
+  },
+  "contactForm": {
+    "isSent": "Formulari enviat amb èxit!",
+    "inputName": "Nom",
+    "inputEmail": "Correu electrònic",
+    "inputPhone": "Telèfon",
+    "inputMessage": "Missatge",
+    "methodCommunication": "Mètode de comunicació preferit:",
+    "methodComTel": "Trucada",
+    "methodComWrite": "SMS",
+    "methodComEmail": "Correu electrònic",
+    "choiseHorary": "Tria una hora convenient perquè ens puguem posar en contacte amb tu:",
+    "choiseAntes": "Tan aviat com sigui possible",
+    "sendBtn": "Enviar"
+  }
+}

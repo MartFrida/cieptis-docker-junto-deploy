@@ -1,0 +1,21 @@
+{
+  "fitness": "Ejercicio",
+  "therapy": "Terapia",
+  "articles": {
+    "how-to-train": {
+      "id": "how-to-train",
+      "title": "El artículo estará disponible próximamente.",
+      "content": ""
+    },
+    "dieta": {
+      "id": "dieta",
+      "title": "El artículo estará disponible próximamente.",
+      "content": ""
+    },
+    "nutry": {
+      "id": "nutry",
+      "title": "El artículo estará disponible próximamente.",
+      "content": ""
+    }
+  }
+}
